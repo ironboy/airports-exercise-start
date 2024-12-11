@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+  text-align: center;
+  margin: 40px;
+  font-family: 'Lato';
+  background-image: url('images/airport.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h3 {
+  margin: 0;
+  font-size: 40px;
+}
+
+table {
+  display: inline-block;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+thead tr {
+  background-color: rgba(135, 173, 193, 0.85);
+}
+
+tbody tr {
+  height: 50px;
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+tbody tr:nth-child(odd) {
+  background-color: rgba(220, 220, 220, 0.85);
+}
+
+td,
+th {
+  margin: 0;
+  padding: 10px;
+  text-align: left;
+  white-space: nowrap;
+}
+
+th {
+  text-align: left;
+}
+
+thead {
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.star {
+  cursor: pointer;
+}
+
+.star img {
+  height: 20px;
+}
+
+.star .star-filled {
+  display: none;
+}
+
+.favorite .star .star-filled {
+  display: inline-block;
+}
+
+.favorite .star .star-unfilled {
+  display: none;
+}
