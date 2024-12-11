@@ -28,6 +28,7 @@ if (!store.userGdprApproval) {
       <div class="button yes-on-gdpr">Yes</div>
     </section>
   `);
+  // event handler for clicking on yes/no on gdpr message
   $(document).on('click', '.approve-gdpr .button', function () {
     // check if the user approves or not (No/Yes)
     store.userGdprApproval = $(this).text();
