@@ -1,0 +1,8002 @@
+[
+  {
+    "code": "MEP",
+    "name": "Mersing Airport",
+    "location": "Mersing",
+    "elevationFeet": "10",
+    "contintent": "AS",
+    "countryCode": "MY"
+  },
+  {
+    "code": "YWM",
+    "name": "Williams Harbour Airport",
+    "location": "Williams Harbour",
+    "elevationFeet": "70",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "FSM",
+    "name": "Fort Smith Regional Airport",
+    "location": "Fort Smith",
+    "elevationFeet": "469",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "ERM",
+    "name": "Erechim Airport",
+    "location": "Erechim",
+    "elevationFeet": "2498",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "SNF",
+    "name": "Sub Teniente Nestor Arias Airport",
+    "location": "San Felipe",
+    "elevationFeet": "761",
+    "contintent": "SA",
+    "countryCode": "VE"
+  },
+  {
+    "code": "NTU",
+    "name": "Oceana Naval Air Station",
+    "location": "Virginia Beach",
+    "elevationFeet": "23",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SGG",
+    "name": "Simanggang Airport",
+    "location": "Sri Aman",
+    "elevationFeet": "47",
+    "contintent": "AS",
+    "countryCode": "MY"
+  },
+  {
+    "code": "PIX",
+    "name": "Pico Airport",
+    "location": "Pico Island",
+    "elevationFeet": "109",
+    "contintent": "EU",
+    "countryCode": "PT"
+  },
+  {
+    "code": "EIE",
+    "name": "Yeniseysk Airport",
+    "location": "Yeniseysk",
+    "elevationFeet": "253",
+    "contintent": "AS",
+    "countryCode": "RU"
+  },
+  {
+    "code": "PSX",
+    "name": "Palacios Municipal Airport",
+    "location": "Palacios",
+    "elevationFeet": "14",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TIK",
+    "name": "Tinker Air Force Base",
+    "location": "Oklahoma City",
+    "elevationFeet": "1291",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "GTZ",
+    "name": "Kirawira B Aerodrome",
+    "location": "Grumeti Game Reserve",
+    "elevationFeet": "3970",
+    "contintent": "AF",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "BPL",
+    "name": "Alashankou Bole (Bortala) airport",
+    "location": "Bole",
+    "elevationFeet": "1253",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "GLK",
+    "name": "Galcaio Airport",
+    "location": "Galcaio",
+    "elevationFeet": "975",
+    "contintent": "AF",
+    "countryCode": "SO"
+  },
+  {
+    "code": "BOG",
+    "name": "El Dorado International Airport",
+    "location": "Bogota",
+    "elevationFeet": "8361",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "BZE",
+    "name": "Philip S. W. Goldson International Airport",
+    "location": "Belize City",
+    "elevationFeet": "15",
+    "contintent": "NA",
+    "countryCode": "BZ"
+  },
+  {
+    "code": "BMV",
+    "name": "Buon Ma Thuot Airport",
+    "location": "Buon Ma Thuot",
+    "elevationFeet": "1729",
+    "contintent": "AS",
+    "countryCode": "VN"
+  },
+  {
+    "code": "UZM",
+    "name": "Hope Bay Aerodrome",
+    "location": "Hope Bay",
+    "elevationFeet": "150",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "URR",
+    "name": "Urrao Airport",
+    "location": "Urrao",
+    "elevationFeet": "6090",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "DZU",
+    "name": "Dazu Air Base",
+    "location": "Dazu",
+    "elevationFeet": "1220",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "ZCL",
+    "name": "General Leobardo C. Ruiz International Airport",
+    "location": "Zacatecas",
+    "elevationFeet": "7141",
+    "contintent": "NA",
+    "countryCode": "MX"
+  },
+  {
+    "code": "BAQ",
+    "name": "Ernesto Cortissoz International Airport",
+    "location": "Barranquilla",
+    "elevationFeet": "98",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "SDG",
+    "name": "Sanandaj Airport",
+    "location": null,
+    "elevationFeet": "4522",
+    "contintent": "AS",
+    "countryCode": "IR"
+  },
+  {
+    "code": "BSP",
+    "name": "Bensbach Airport",
+    "location": "Bensbach",
+    "elevationFeet": "30",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "FBA",
+    "name": "Fonte Boa Airport",
+    "location": "Fonte Boa",
+    "elevationFeet": "207",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "SHH",
+    "name": "Shishmaref Airport",
+    "location": "Shishmaref",
+    "elevationFeet": "12",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BZA",
+    "name": "San Pedro Airport",
+    "location": "Bonanza",
+    "elevationFeet": "600",
+    "contintent": "NA",
+    "countryCode": "NI"
+  },
+  {
+    "code": "ZGI",
+    "name": "Gods River Airport",
+    "location": "Gods River",
+    "elevationFeet": "627",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "ISK",
+    "name": "Nashik Airport",
+    "location": "Nasik",
+    "elevationFeet": "1900",
+    "contintent": "AS",
+    "countryCode": "IN"
+  },
+  {
+    "code": "BYT",
+    "name": "Bantry Aerodrome",
+    "location": "Bantry",
+    "elevationFeet": "7",
+    "contintent": "EU",
+    "countryCode": "IE"
+  },
+  {
+    "code": "ACH",
+    "name": "St Gallen Altenrhein Airport",
+    "location": "Altenrhein",
+    "elevationFeet": "1306",
+    "contintent": "EU",
+    "countryCode": "CH"
+  },
+  {
+    "code": "AMZ",
+    "name": "Ardmore Airport",
+    "location": "Manurewa",
+    "elevationFeet": "111",
+    "contintent": "OC",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "ROK",
+    "name": "Rockhampton Airport",
+    "location": "Rockhampton",
+    "elevationFeet": "34",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "LPU",
+    "name": "Long Apung Airport",
+    "location": "Long Apung-Borneo Island",
+    "elevationFeet": "627",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "TKG",
+    "name": "Radin Inten II (Branti) Airport",
+    "location": "Bandar Lampung-Sumatra Island",
+    "elevationFeet": "282",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "UAI",
+    "name": "Suai Airport",
+    "location": "Suai",
+    "elevationFeet": "96",
+    "contintent": "AS",
+    "countryCode": "TL"
+  },
+  {
+    "code": "BTN",
+    "name": "Marlboro County Jetport H.E. Avent Field",
+    "location": "Bennettsville",
+    "elevationFeet": "147",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KIF",
+    "name": "Kingfisher Lake Airport",
+    "location": "Kingfisher Lake",
+    "elevationFeet": "866",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "ICR",
+    "name": "Nicaro Airport",
+    "location": "Nicaro",
+    "elevationFeet": "26",
+    "contintent": "NA",
+    "countryCode": "CU"
+  },
+  {
+    "code": "DUR",
+    "name": "King Shaka International Airport",
+    "location": "Durban",
+    "elevationFeet": "295",
+    "contintent": "AF",
+    "countryCode": "ZA"
+  },
+  {
+    "code": "APV",
+    "name": "Apple Valley Airport",
+    "location": "Apple Valley",
+    "elevationFeet": "3062",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "YKX",
+    "name": "Kirkland Lake Airport",
+    "location": "Kirkland Lake",
+    "elevationFeet": "1157",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "ZRI",
+    "name": "Serui Airport",
+    "location": "Serui-Japen Island",
+    "elevationFeet": "50",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "JDF",
+    "name": "Francisco de Assis Airport",
+    "location": "Juiz De Fora",
+    "elevationFeet": "2989",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "ZNZ",
+    "name": "Abeid Amani Karume International Airport",
+    "location": "Zanzibar",
+    "elevationFeet": "54",
+    "contintent": "AF",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "VHC",
+    "name": "Saurimo Airport",
+    "location": "Saurimo",
+    "elevationFeet": "3584",
+    "contintent": "AF",
+    "countryCode": "AO"
+  },
+  {
+    "code": "CTR",
+    "name": "Cattle Creek Airport",
+    "location": null,
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "CAG",
+    "name": "Cagliari Elmas Airport",
+    "location": "Cagliari",
+    "elevationFeet": "13",
+    "contintent": "EU",
+    "countryCode": "IT"
+  },
+  {
+    "code": "DBY",
+    "name": "Dalby Airport",
+    "location": null,
+    "elevationFeet": "1137",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "LTR",
+    "name": "Letterkenny Airport",
+    "location": "Letterkenny",
+    "elevationFeet": "20",
+    "contintent": "EU",
+    "countryCode": "IE"
+  },
+  {
+    "code": "SZV",
+    "name": "Suzhou Guangfu Airport",
+    "location": "Suzhou",
+    "elevationFeet": null,
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "GDV",
+    "name": "Dawson Community Airport",
+    "location": "Glendive",
+    "elevationFeet": "2458",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "UKN",
+    "name": "Waukon Municipal Airport",
+    "location": "Waukon",
+    "elevationFeet": "1281",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "DFW",
+    "name": "Dallas Fort Worth International Airport",
+    "location": "Dallas-Fort Worth",
+    "elevationFeet": "607",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BCQ",
+    "name": "Brak Airport",
+    "location": "Brak",
+    "elevationFeet": "1056",
+    "contintent": "AF",
+    "countryCode": "LY"
+  },
+  {
+    "code": "RJK",
+    "name": "Rijeka Airport",
+    "location": "Rijeka",
+    "elevationFeet": "278",
+    "contintent": "EU",
+    "countryCode": "HR"
+  },
+  {
+    "code": "GLT",
+    "name": "Gladstone Airport",
+    "location": "Gladstone",
+    "elevationFeet": "64",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "SLV",
+    "name": "Shimla Airport",
+    "location": null,
+    "elevationFeet": "5072",
+    "contintent": "AS",
+    "countryCode": "IN"
+  },
+  {
+    "code": "YLS",
+    "name": "Lebel-sur-Quevillon Airport",
+    "location": "Lebel-sur-Quévillon",
+    "elevationFeet": "960",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "ESP",
+    "name": "Birchwood-Pocono Airport",
+    "location": "East Stroudsburg",
+    "elevationFeet": "965",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MOY",
+    "name": "Monterrey Airport",
+    "location": "Monterrey",
+    "elevationFeet": "1500",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "BUM",
+    "name": "Butler Memorial Airport",
+    "location": "Butler",
+    "elevationFeet": "892",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CVB",
+    "name": "Chungribu Airport",
+    "location": "Chungribu",
+    "elevationFeet": "130",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "BHX",
+    "name": "Birmingham International Airport",
+    "location": "Birmingham",
+    "elevationFeet": "327",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "ABZ",
+    "name": "Aberdeen Dyce Airport",
+    "location": "Aberdeen",
+    "elevationFeet": "215",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "RZN",
+    "name": "Turlatovo Airport",
+    "location": "Ryazan",
+    "elevationFeet": "502",
+    "contintent": "EU",
+    "countryCode": "RU"
+  },
+  {
+    "code": "BGO",
+    "name": "Bergen Airport Flesland",
+    "location": "Bergen",
+    "elevationFeet": "170",
+    "contintent": "EU",
+    "countryCode": "NO"
+  },
+  {
+    "code": "CEK",
+    "name": "Chelyabinsk Balandino Airport",
+    "location": "Chelyabinsk",
+    "elevationFeet": "769",
+    "contintent": "EU",
+    "countryCode": "RU"
+  },
+  {
+    "code": "WPK",
+    "name": "Wrotham Park Airport",
+    "location": null,
+    "elevationFeet": "152",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "ABD",
+    "name": "Abadan Airport",
+    "location": "Abadan",
+    "elevationFeet": "10",
+    "contintent": "AS",
+    "countryCode": "IR"
+  },
+  {
+    "code": "CCL",
+    "name": "Chinchilla Airport",
+    "location": null,
+    "elevationFeet": "1028",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "BTT",
+    "name": "Bettles Airport",
+    "location": "Bettles",
+    "elevationFeet": "647",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "RED",
+    "name": "Mifflin County Airport",
+    "location": "Reedsville",
+    "elevationFeet": "819",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CMB",
+    "name": "Bandaranaike International Colombo Airport",
+    "location": "Colombo",
+    "elevationFeet": "30",
+    "contintent": "AS",
+    "countryCode": "LK"
+  },
+  {
+    "code": "XLU",
+    "name": "Leo Airport",
+    "location": "Leo",
+    "elevationFeet": "1181",
+    "contintent": "AF",
+    "countryCode": "BF"
+  },
+  {
+    "code": "AAN",
+    "name": "Al Ain International Airport",
+    "location": "Al Ain",
+    "elevationFeet": "869",
+    "contintent": "AS",
+    "countryCode": "AE"
+  },
+  {
+    "code": "BRO",
+    "name": "Brownsville South Padre Island International Airport",
+    "location": "Brownsville",
+    "elevationFeet": "22",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KUK",
+    "name": "Kasigluk Airport",
+    "location": "Kasigluk",
+    "elevationFeet": "48",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "ZRZ",
+    "name": "Zaraza Airport",
+    "location": "Zaraza",
+    "elevationFeet": "204",
+    "contintent": "SA",
+    "countryCode": "VE"
+  },
+  {
+    "code": "JIL",
+    "name": "Jilin Airport",
+    "location": "Jilin",
+    "elevationFeet": null,
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "CZH",
+    "name": "Corozal Municipal Airport",
+    "location": "Corozal",
+    "elevationFeet": "40",
+    "contintent": "NA",
+    "countryCode": "BZ"
+  },
+  {
+    "code": "ART",
+    "name": "Watertown International Airport",
+    "location": "Watertown",
+    "elevationFeet": "325",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "DUK",
+    "name": "Mubatuba Airport",
+    "location": "Mubatuba",
+    "elevationFeet": "210",
+    "contintent": "AF",
+    "countryCode": "ZA"
+  },
+  {
+    "code": "CAA",
+    "name": "Catacamas Airport",
+    "location": "Catacamas",
+    "elevationFeet": "1489",
+    "contintent": "NA",
+    "countryCode": "HN"
+  },
+  {
+    "code": "TAJ",
+    "name": "Tadji Airport",
+    "location": "Aitape",
+    "elevationFeet": "33",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "BPL",
+    "name": "Alashankou Bole (Bortala) airport",
+    "location": "Bole",
+    "elevationFeet": "1253",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "LMN",
+    "name": "Limbang Airport",
+    "location": "Limbang",
+    "elevationFeet": "14",
+    "contintent": "AS",
+    "countryCode": "MY"
+  },
+  {
+    "code": "LOZ",
+    "name": "London-Corbin Airport/Magee Field",
+    "location": "London",
+    "elevationFeet": "1212",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KTO",
+    "name": "Kato Airport",
+    "location": "Kato",
+    "elevationFeet": "2299",
+    "contintent": "SA",
+    "countryCode": "GY"
+  },
+  {
+    "code": "GEG",
+    "name": "Spokane International Airport",
+    "location": "Spokane",
+    "elevationFeet": "2376",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SIL",
+    "name": "Sila Airport",
+    "location": "Sila Mission",
+    "elevationFeet": "2230",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "SXO",
+    "name": "São Félix do Araguaia Airport",
+    "location": "São Félix Do Araguaia",
+    "elevationFeet": "650",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "RKP",
+    "name": "Aransas County Airport",
+    "location": "Rockport",
+    "elevationFeet": "24",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SZS",
+    "name": "Ryan's Creek Aerodrome",
+    "location": "Oban",
+    "elevationFeet": "62",
+    "contintent": "OC",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "FLB",
+    "name": "Cangapara Airport",
+    "location": "Floriano",
+    "elevationFeet": "689",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "PFO",
+    "name": "Paphos International Airport",
+    "location": "Paphos",
+    "elevationFeet": "41",
+    "contintent": "AS",
+    "countryCode": "CY"
+  },
+  {
+    "code": "APZ",
+    "name": "Zapala Airport",
+    "location": "Zapala",
+    "elevationFeet": "3330",
+    "contintent": "SA",
+    "countryCode": "AR"
+  },
+  {
+    "code": "OKM",
+    "name": "Okmulgee Regional Airport",
+    "location": "Okmulgee",
+    "elevationFeet": "720",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "PKO",
+    "name": "Parakou Airport",
+    "location": "Parakou",
+    "elevationFeet": "1266",
+    "contintent": "AF",
+    "countryCode": "BJ"
+  },
+  {
+    "code": "CVS",
+    "name": "Cannon Air Force Base",
+    "location": "Clovis",
+    "elevationFeet": "4295",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MEO",
+    "name": "Dare County Regional Airport",
+    "location": "Manteo",
+    "elevationFeet": "13",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "LNE",
+    "name": "Lonorore Airport",
+    "location": "Lonorore",
+    "elevationFeet": "43",
+    "contintent": "OC",
+    "countryCode": "VU"
+  },
+  {
+    "code": "CUZ",
+    "name": "Alejandro Velasco Astete International Airport",
+    "location": "Cusco",
+    "elevationFeet": "10860",
+    "contintent": "SA",
+    "countryCode": "PE"
+  },
+  {
+    "code": "YME",
+    "name": "Matane Airport",
+    "location": "Matane",
+    "elevationFeet": "102",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "BMM",
+    "name": "Bitam Airport",
+    "location": "Bitam",
+    "elevationFeet": "1969",
+    "contintent": "AF",
+    "countryCode": "GA"
+  },
+  {
+    "code": "DJM",
+    "name": "Djambala Airport",
+    "location": "Djambala",
+    "elevationFeet": "2595",
+    "contintent": "AF",
+    "countryCode": "CG"
+  },
+  {
+    "code": "MDE",
+    "name": "Jose Maria Córdova International Airport",
+    "location": "Medellín",
+    "elevationFeet": "6955",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "TZA",
+    "name": "Belize City Municipal Airport",
+    "location": "Belize City",
+    "elevationFeet": "16",
+    "contintent": "NA",
+    "countryCode": "BZ"
+  },
+  {
+    "code": "REQ",
+    "name": "Reko Diq Airport",
+    "location": "Chagai",
+    "elevationFeet": "2784",
+    "contintent": "AS",
+    "countryCode": "PK"
+  },
+  {
+    "code": "MVS",
+    "name": "Mucuri Airport",
+    "location": "Mucuri",
+    "elevationFeet": "276",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "LGX",
+    "name": "Lugh Ganane Airport",
+    "location": "Luuq",
+    "elevationFeet": "507",
+    "contintent": "AF",
+    "countryCode": "SO"
+  },
+  {
+    "code": "FNU",
+    "name": "Oristano-Fenosu Airport",
+    "location": "Oristano",
+    "elevationFeet": "36",
+    "contintent": "EU",
+    "countryCode": "IT"
+  },
+  {
+    "code": "STX",
+    "name": "Henry E Rohlsen Airport",
+    "location": "Christiansted",
+    "elevationFeet": "74",
+    "contintent": "NA",
+    "countryCode": "VI"
+  },
+  {
+    "code": "JWN",
+    "name": "Zanjan Airport",
+    "location": "Zanjan",
+    "elevationFeet": "5382",
+    "contintent": "AS",
+    "countryCode": "IR"
+  },
+  {
+    "code": "KWZ",
+    "name": "Kolwezi Airport",
+    "location": null,
+    "elevationFeet": "5007",
+    "contintent": "AF",
+    "countryCode": "CD"
+  },
+  {
+    "code": "MID",
+    "name": "Licenciado Manuel Crescencio Rejon Int Airport",
+    "location": "Mérida",
+    "elevationFeet": "38",
+    "contintent": "NA",
+    "countryCode": "MX"
+  },
+  {
+    "code": "CKV",
+    "name": "Clarksville–Montgomery County Regional Airport",
+    "location": "Clarksville",
+    "elevationFeet": "550",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TPL",
+    "name": "Draughon Miller Central Texas Regional Airport",
+    "location": "Temple",
+    "elevationFeet": "682",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SKG",
+    "name": "Thessaloniki Macedonia International Airport",
+    "location": "Thessaloniki",
+    "elevationFeet": "22",
+    "contintent": "EU",
+    "countryCode": "GR"
+  },
+  {
+    "code": "TBP",
+    "name": "Capitan FAP Pedro Canga Rodriguez Airport",
+    "location": "Tumbes",
+    "elevationFeet": "115",
+    "contintent": "SA",
+    "countryCode": "PE"
+  },
+  {
+    "code": "PLJ",
+    "name": "Placencia Airport",
+    "location": "Placencia",
+    "elevationFeet": "3",
+    "contintent": "NA",
+    "countryCode": "BZ"
+  },
+  {
+    "code": "THB",
+    "name": "Thaba-Tseka Airport",
+    "location": "Thaba-Tseka",
+    "elevationFeet": "7500",
+    "contintent": "AF",
+    "countryCode": "LS"
+  },
+  {
+    "code": "UKU",
+    "name": "Nuku Airport",
+    "location": "Nuku",
+    "elevationFeet": "870",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "MEK",
+    "name": "Bassatine Airport",
+    "location": "Meknes",
+    "elevationFeet": "1890",
+    "contintent": "AF",
+    "countryCode": "MA"
+  },
+  {
+    "code": "VTG",
+    "name": "Vung Tau Airport",
+    "location": "Vung Tau",
+    "elevationFeet": "13",
+    "contintent": "AS",
+    "countryCode": "VN"
+  },
+  {
+    "code": "RMD",
+    "name": "Basanth Nagar Airport",
+    "location": "Ramagundam",
+    "elevationFeet": "670",
+    "contintent": "AS",
+    "countryCode": "IN"
+  },
+  {
+    "code": "ZOS",
+    "name": "Cañal Bajo Carlos - Hott Siebert Airport",
+    "location": "Osorno",
+    "elevationFeet": "187",
+    "contintent": "SA",
+    "countryCode": "CL"
+  },
+  {
+    "code": "YIE",
+    "name": "Arxan Yi'ershi Airport",
+    "location": "Arxan",
+    "elevationFeet": "2925",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "TLG",
+    "name": "Tulaghi Heliport",
+    "location": "Tulaghi Island",
+    "elevationFeet": "3",
+    "contintent": "OC",
+    "countryCode": "SB"
+  },
+  {
+    "code": "YZF",
+    "name": "Yellowknife Airport",
+    "location": "Yellowknife",
+    "elevationFeet": "675",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "LGK",
+    "name": "Langkawi International Airport",
+    "location": "Langkawi",
+    "elevationFeet": "29",
+    "contintent": "AS",
+    "countryCode": "MY"
+  },
+  {
+    "code": "SOM",
+    "name": "San Tomé Airport",
+    "location": "El Tigre",
+    "elevationFeet": "861",
+    "contintent": "SA",
+    "countryCode": "VE"
+  },
+  {
+    "code": "MGR",
+    "name": "Moultrie Municipal Airport",
+    "location": "Moultrie",
+    "elevationFeet": "294",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "HKP",
+    "name": "Kaanapali Airport",
+    "location": "Kaanapali",
+    "elevationFeet": "3",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "QOQ",
+    "name": "Saarloq Heliport",
+    "location": null,
+    "elevationFeet": null,
+    "contintent": "NA",
+    "countryCode": "GL"
+  },
+  {
+    "code": "MDI",
+    "name": "Makurdi Airport",
+    "location": "Makurdi",
+    "elevationFeet": "371",
+    "contintent": "AF",
+    "countryCode": "NG"
+  },
+  {
+    "code": "CKY",
+    "name": "Conakry International Airport",
+    "location": "Conakry",
+    "elevationFeet": "72",
+    "contintent": "AF",
+    "countryCode": "GN"
+  },
+  {
+    "code": "SDF",
+    "name": "Louisville International Standiford Field",
+    "location": "Louisville",
+    "elevationFeet": "501",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "ABC",
+    "name": "Albacete-Los Llanos Airport",
+    "location": "Albacete",
+    "elevationFeet": "2302",
+    "contintent": "EU",
+    "countryCode": "ES"
+  },
+  {
+    "code": "RNU",
+    "name": "Ranau Airport",
+    "location": "Ranau",
+    "elevationFeet": "1800",
+    "contintent": "AS",
+    "countryCode": "MY"
+  },
+  {
+    "code": "MQY",
+    "name": "Smyrna Airport",
+    "location": "Smyrna",
+    "elevationFeet": "543",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TYB",
+    "name": "Tibooburra Airport",
+    "location": null,
+    "elevationFeet": "584",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "GBL",
+    "name": "South Goulburn Is Airport",
+    "location": null,
+    "elevationFeet": "19",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "MPB",
+    "name": "Miami Seaplane Base",
+    "location": "Miami",
+    "elevationFeet": "0",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "HIM",
+    "name": "Hingurakgoda Air Force Base",
+    "location": "Polonnaruwa Town",
+    "elevationFeet": "170",
+    "contintent": "AS",
+    "countryCode": "LK"
+  },
+  {
+    "code": "YGE",
+    "name": "Gorge Harbour Seaplane Base",
+    "location": "Gorge Harbour",
+    "elevationFeet": "0",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "HOF",
+    "name": "Al Ahsa Airport",
+    "location": null,
+    "elevationFeet": "588",
+    "contintent": "AS",
+    "countryCode": "SA"
+  },
+  {
+    "code": "VPZ",
+    "name": "Porter County Municipal Airport",
+    "location": "Valparaiso",
+    "elevationFeet": "770",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TZC",
+    "name": "Tuscola Area Airport",
+    "location": "Caro",
+    "elevationFeet": "701",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BTM",
+    "name": "Bert Mooney Airport",
+    "location": "Butte",
+    "elevationFeet": "5550",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CIY",
+    "name": "Comiso Airport",
+    "location": "Comiso",
+    "elevationFeet": "623",
+    "contintent": "EU",
+    "countryCode": "IT"
+  },
+  {
+    "code": "YGM",
+    "name": "Gimli Industrial Park Airport",
+    "location": "Gimli",
+    "elevationFeet": "753",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "0",
+    "name": "Leme Airport",
+    "location": "Leme",
+    "elevationFeet": "2024",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "VNY",
+    "name": "Van Nuys Airport",
+    "location": "Van Nuys",
+    "elevationFeet": "802",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KKE",
+    "name": "Kerikeri Airport",
+    "location": "Kerikeri",
+    "elevationFeet": "492",
+    "contintent": "OC",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "CGM",
+    "name": "Camiguin Airport",
+    "location": null,
+    "elevationFeet": "53",
+    "contintent": "AS",
+    "countryCode": "PH"
+  },
+  {
+    "code": "TNM",
+    "name": "Teniente Rodolfo Marsh Martin Base",
+    "location": "Isla Rey Jorge",
+    "elevationFeet": "147",
+    "contintent": "AN",
+    "countryCode": "AQ"
+  },
+  {
+    "code": "WIE",
+    "name": "Wiesbaden Army Airfield",
+    "location": "Wiesbaden",
+    "elevationFeet": "461",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "NRI",
+    "name": "Grand Lake Regional Airport",
+    "location": "Afton",
+    "elevationFeet": "792",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BOS",
+    "name": "General Edward Lawrence Logan International Airport",
+    "location": "Boston",
+    "elevationFeet": "20",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CRS",
+    "name": "C David Campbell Field Corsicana Municipal Airport",
+    "location": "Corsicana",
+    "elevationFeet": "449",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "UKT",
+    "name": "Quakertown Airport",
+    "location": "Quakertown",
+    "elevationFeet": "526",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "FFT",
+    "name": "Capital City Airport",
+    "location": "Frankfort",
+    "elevationFeet": "806",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "OBN",
+    "name": "Oban Airport",
+    "location": "North Connel",
+    "elevationFeet": "20",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "PWR",
+    "name": "Port Walter Seaplane Base",
+    "location": "Port Walter",
+    "elevationFeet": "0",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "LUK",
+    "name": "Cincinnati Municipal Airport Lunken Field",
+    "location": "Cincinnati",
+    "elevationFeet": "483",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SUR",
+    "name": "Summer Beaver Airport",
+    "location": "Summer Beaver",
+    "elevationFeet": "832",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "YGN",
+    "name": "Greenway Sound Seaplane Base",
+    "location": "Broughton Island",
+    "elevationFeet": null,
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "ISW",
+    "name": "Alexander Field South Wood County Airport",
+    "location": "Wisconsin Rapids",
+    "elevationFeet": "1021",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BNO",
+    "name": "Burns Municipal Airport",
+    "location": "Burns",
+    "elevationFeet": "4148",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "IAL",
+    "name": "Ialibu Airport",
+    "location": "Ialibu",
+    "elevationFeet": "6736",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "ACN",
+    "name": "Ciudad Acuña New International Airport",
+    "location": "Ciudad Acuña",
+    "elevationFeet": "1410",
+    "contintent": "NA",
+    "countryCode": "MX"
+  },
+  {
+    "code": "RLT",
+    "name": "Arlit Airport",
+    "location": "Arlit",
+    "elevationFeet": "1443",
+    "contintent": "AF",
+    "countryCode": "NE"
+  },
+  {
+    "code": "STS",
+    "name": "Charles M. Schulz Sonoma County Airport",
+    "location": "Santa Rosa",
+    "elevationFeet": "128",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "WGA",
+    "name": "Wagga Wagga City Airport",
+    "location": "Wagga Wagga",
+    "elevationFeet": "724",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "SZG",
+    "name": "Salzburg Airport",
+    "location": "Salzburg",
+    "elevationFeet": "1411",
+    "contintent": "EU",
+    "countryCode": "AT"
+  },
+  {
+    "code": "CAS",
+    "name": "Anfa Airport",
+    "location": "Casablanca",
+    "elevationFeet": "200",
+    "contintent": "AF",
+    "countryCode": "MA"
+  },
+  {
+    "code": "YXR",
+    "name": "Earlton (Timiskaming Regional) Airport",
+    "location": "Earlton",
+    "elevationFeet": "800",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "QHU",
+    "name": "Husum-Schwesing Airport",
+    "location": "Husum",
+    "elevationFeet": "62",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "PMP",
+    "name": "Pimaga Airport",
+    "location": "Pimaga",
+    "elevationFeet": "2745",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PEA",
+    "name": "Penneshaw Airport",
+    "location": "Ironstone",
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "ITO",
+    "name": "Hilo International Airport",
+    "location": "Hilo",
+    "elevationFeet": "38",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "OVL",
+    "name": "El Tuqui Airport",
+    "location": "Ovalle",
+    "elevationFeet": "1100",
+    "contintent": "SA",
+    "countryCode": "CL"
+  },
+  {
+    "code": "VGD",
+    "name": "Vologda Airport",
+    "location": "Vologda",
+    "elevationFeet": "387",
+    "contintent": "EU",
+    "countryCode": "RU"
+  },
+  {
+    "code": "KTQ",
+    "name": "Kitee Airport",
+    "location": null,
+    "elevationFeet": "364",
+    "contintent": "EU",
+    "countryCode": "FI"
+  },
+  {
+    "code": "SYW",
+    "name": "Sehwan Sharif Airport",
+    "location": "Sehwan Sharif",
+    "elevationFeet": "121",
+    "contintent": "AS",
+    "countryCode": "PK"
+  },
+  {
+    "code": "ION",
+    "name": "Impfondo Airport",
+    "location": "Impfondo",
+    "elevationFeet": "1099",
+    "contintent": "AF",
+    "countryCode": "CG"
+  },
+  {
+    "code": "CYT",
+    "name": "Yakataga Airport",
+    "location": "Yakataga",
+    "elevationFeet": "12",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "VTZ",
+    "name": "Vishakhapatnam Airport",
+    "location": "Visakhapatnam",
+    "elevationFeet": "15",
+    "contintent": "AS",
+    "countryCode": "IN"
+  },
+  {
+    "code": "ISI",
+    "name": "Isisford Airport",
+    "location": null,
+    "elevationFeet": "694",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "FGD",
+    "name": "Fderik Airport",
+    "location": "Fderik",
+    "elevationFeet": "961",
+    "contintent": "AF",
+    "countryCode": "MR"
+  },
+  {
+    "code": "ROA",
+    "name": "Roanoke–Blacksburg Regional Airport",
+    "location": "Roanoke",
+    "elevationFeet": "1175",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SHR",
+    "name": "Sheridan County Airport",
+    "location": "Sheridan",
+    "elevationFeet": "4021",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KTW",
+    "name": "Katowice International Airport",
+    "location": "Katowice",
+    "elevationFeet": "995",
+    "contintent": "EU",
+    "countryCode": "PL"
+  },
+  {
+    "code": "KXU",
+    "name": "Katiu Airport",
+    "location": "Katiu",
+    "elevationFeet": "7",
+    "contintent": "OC",
+    "countryCode": "PF"
+  },
+  {
+    "code": "QWG",
+    "name": "Wilgrove Air Park",
+    "location": "Charlotte",
+    "elevationFeet": "799",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SZE",
+    "name": "Semera Airport",
+    "location": "Semera",
+    "elevationFeet": "1390",
+    "contintent": "AF",
+    "countryCode": "ET"
+  },
+  {
+    "code": "JHQ",
+    "name": "Shute Harbour Airport",
+    "location": null,
+    "elevationFeet": "12",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "TEQ",
+    "name": "Tekirdağ Çorlu Airport",
+    "location": "Çorlu",
+    "elevationFeet": "574",
+    "contintent": "EU",
+    "countryCode": "TR"
+  },
+  {
+    "code": "GHA",
+    "name": "Noumérat - Moufdi Zakaria Airport",
+    "location": "Ghardaïa",
+    "elevationFeet": "1512",
+    "contintent": "AF",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "ANH",
+    "name": "Anuha Island Resort Airport",
+    "location": "Anhua Island",
+    "elevationFeet": "22",
+    "contintent": "OC",
+    "countryCode": "SB"
+  },
+  {
+    "code": "WAZ",
+    "name": "Warwick Airport",
+    "location": null,
+    "elevationFeet": "1500",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "AHD",
+    "name": "Ardmore Downtown Executive Airport",
+    "location": "Ardmore",
+    "elevationFeet": "844",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "FLT",
+    "name": "Flat Airport",
+    "location": "Flat",
+    "elevationFeet": "309",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KNF",
+    "name": "RAF Marham",
+    "location": "Marham",
+    "elevationFeet": "75",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "GIG",
+    "name": "Rio Galeão – Tom Jobim International Airport",
+    "location": "Rio De Janeiro",
+    "elevationFeet": "28",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "TUT",
+    "name": "Tauta Airport",
+    "location": "Tauta",
+    "elevationFeet": "4200",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "DWS",
+    "name": "Lake Buena Vista STOLport",
+    "location": "Walt Disney World",
+    "elevationFeet": "94",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "NIT",
+    "name": "Niort-Souché Airport",
+    "location": "Niort/Souché",
+    "elevationFeet": "203",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "MXH",
+    "name": "Moro Airport",
+    "location": "Moro",
+    "elevationFeet": "2740",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "ECI",
+    "name": "Costa Esmeralda Airport",
+    "location": "Tola",
+    "elevationFeet": "84",
+    "contintent": "NA",
+    "countryCode": "NI"
+  },
+  {
+    "code": "MEB",
+    "name": "Melbourne Essendon Airport",
+    "location": null,
+    "elevationFeet": "282",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "RYK",
+    "name": "Shaikh Zaid Airport",
+    "location": "Rahim Yar Khan",
+    "elevationFeet": "271",
+    "contintent": "AS",
+    "countryCode": "PK"
+  },
+  {
+    "code": "BRX",
+    "name": "Maria Montez International Airport",
+    "location": "Barahona",
+    "elevationFeet": "10",
+    "contintent": "NA",
+    "countryCode": "DO"
+  },
+  {
+    "code": "NVS",
+    "name": "Nevers-Fourchambault Airport",
+    "location": "Nevers/Fourchambault",
+    "elevationFeet": "602",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "MRQ",
+    "name": "Marinduque Airport",
+    "location": "Gasan",
+    "elevationFeet": "32",
+    "contintent": "AS",
+    "countryCode": "PH"
+  },
+  {
+    "code": "GRC",
+    "name": "Grand Cess Airport",
+    "location": "Grand Cess",
+    "elevationFeet": "28",
+    "contintent": "AF",
+    "countryCode": "LR"
+  },
+  {
+    "code": "LGQ",
+    "name": "Nueva Loja Airport",
+    "location": "Lago Agrio",
+    "elevationFeet": "980",
+    "contintent": "SA",
+    "countryCode": "EC"
+  },
+  {
+    "code": "LGQ",
+    "name": "Nueva Loja Airport",
+    "location": "Lago Agrio",
+    "elevationFeet": "980",
+    "contintent": "SA",
+    "countryCode": "EC"
+  },
+  {
+    "code": "LRG",
+    "name": "Loralai Airport",
+    "location": "Loralai",
+    "elevationFeet": "4631",
+    "contintent": "AS",
+    "countryCode": "PK"
+  },
+  {
+    "code": "BTK",
+    "name": "Bratsk Airport",
+    "location": "Bratsk",
+    "elevationFeet": "1610",
+    "contintent": "AS",
+    "countryCode": "RU"
+  },
+  {
+    "code": "LEZ",
+    "name": "La Esperanza Airport",
+    "location": "La Esperanza",
+    "elevationFeet": "5475",
+    "contintent": "NA",
+    "countryCode": "HN"
+  },
+  {
+    "code": "BZD",
+    "name": "Balranald Airport",
+    "location": null,
+    "elevationFeet": "210",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "YDP",
+    "name": "Nain Airport",
+    "location": "Nain",
+    "elevationFeet": "22",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "FOT",
+    "name": "Forster (Wallis Is) Airport",
+    "location": null,
+    "elevationFeet": "4",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "GDN",
+    "name": "Gdańsk Lech Wałęsa Airport",
+    "location": "Gdańsk",
+    "elevationFeet": "489",
+    "contintent": "EU",
+    "countryCode": "PL"
+  },
+  {
+    "code": "TEV",
+    "name": "Teruel Airport",
+    "location": "Teruel",
+    "elevationFeet": "3380",
+    "contintent": "EU",
+    "countryCode": "ES"
+  },
+  {
+    "code": "YAZ",
+    "name": "Tofino / Long Beach Airport",
+    "location": "Tofino",
+    "elevationFeet": "80",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "KHL",
+    "name": "Khan Jahan Ali Airport",
+    "location": "Khulna",
+    "elevationFeet": "21",
+    "contintent": "AS",
+    "countryCode": "BD"
+  },
+  {
+    "code": "DBP",
+    "name": "Debepare Airport",
+    "location": "Debepare",
+    "elevationFeet": "360",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "HSV",
+    "name": "Huntsville International Carl T Jones Field",
+    "location": "Huntsville",
+    "elevationFeet": "629",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BRS",
+    "name": "Bristol Airport",
+    "location": "Bristol",
+    "elevationFeet": "622",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "GRU",
+    "name": "Guarulhos - Governador André Franco Montoro International Airport",
+    "location": "São Paulo",
+    "elevationFeet": "2459",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "NBO",
+    "name": "Jomo Kenyatta International Airport",
+    "location": "Nairobi",
+    "elevationFeet": "5330",
+    "contintent": "AF",
+    "countryCode": "KE"
+  },
+  {
+    "code": "JMS",
+    "name": "Jamestown Regional Airport",
+    "location": "Jamestown",
+    "elevationFeet": "1500",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SVN",
+    "name": "Hunter Army Air Field",
+    "location": "Savannah",
+    "elevationFeet": "41",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CPS",
+    "name": "St Louis Downtown Airport",
+    "location": "Cahokia/St Louis",
+    "elevationFeet": "413",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "XLB",
+    "name": "Lac Brochet Airport",
+    "location": "Lac Brochet",
+    "elevationFeet": "1211",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "MTZ",
+    "name": "Bar Yehuda Airfield",
+    "location": "Masada",
+    "elevationFeet": "-1266",
+    "contintent": "AS",
+    "countryCode": "IL"
+  },
+  {
+    "code": "HEK",
+    "name": "Heihe Airport",
+    "location": "Heihe",
+    "elevationFeet": "8530",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "VPE",
+    "name": "Ngjiva Pereira Airport",
+    "location": "Ngiva",
+    "elevationFeet": "3566",
+    "contintent": "AF",
+    "countryCode": "AO"
+  },
+  {
+    "code": "SKW",
+    "name": "Skwentna Airport",
+    "location": "Skwentna",
+    "elevationFeet": "148",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MTN",
+    "name": "Martin State Airport",
+    "location": "Baltimore",
+    "elevationFeet": "21",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MEF",
+    "name": "Melfi Airport",
+    "location": "Melfi",
+    "elevationFeet": "1293",
+    "contintent": "AF",
+    "countryCode": "TD"
+  },
+  {
+    "code": "HRI",
+    "name": "Mattala Rajapaksa International Airport",
+    "location": null,
+    "elevationFeet": "157",
+    "contintent": "AS",
+    "countryCode": "LK"
+  },
+  {
+    "code": "RTS",
+    "name": "Rottnest Island Airport",
+    "location": null,
+    "elevationFeet": "12",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "LUO",
+    "name": "Luena Airport",
+    "location": "Luena",
+    "elevationFeet": "4360",
+    "contintent": "AF",
+    "countryCode": "AO"
+  },
+  {
+    "code": "OKS",
+    "name": "Garden County Airport",
+    "location": "Oshkosh",
+    "elevationFeet": "3394",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BSZ",
+    "name": "Bartletts Airport",
+    "location": "Egegik",
+    "elevationFeet": "50",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "HYG",
+    "name": "Hydaburg Seaplane Base",
+    "location": "Hydaburg",
+    "elevationFeet": null,
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "GAP",
+    "name": "Gusap Airport",
+    "location": "Gusap",
+    "elevationFeet": "1504",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "YHM",
+    "name": "John C. Munro Hamilton International Airport",
+    "location": "Hamilton",
+    "elevationFeet": "780",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "BBM",
+    "name": "Battambang Airport",
+    "location": "Battambang",
+    "elevationFeet": "59",
+    "contintent": "AS",
+    "countryCode": "KH"
+  },
+  {
+    "code": "AHY",
+    "name": "Ambatolhy Airport",
+    "location": "Ambatolahy",
+    "elevationFeet": "340",
+    "contintent": "AF",
+    "countryCode": "MG"
+  },
+  {
+    "code": "QFG",
+    "name": "Eqalugaarsuit Heliport",
+    "location": "Eqalugaarsuit",
+    "elevationFeet": "9",
+    "contintent": "NA",
+    "countryCode": "GL"
+  },
+  {
+    "code": "HEI",
+    "name": "Heide-Büsum Airport",
+    "location": "Büsum",
+    "elevationFeet": "7",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "VGS",
+    "name": "General Villegas Airport",
+    "location": "General Villegas",
+    "elevationFeet": "383",
+    "contintent": "SA",
+    "countryCode": "AR"
+  },
+  {
+    "code": "CLZ",
+    "name": "Calabozo Airport",
+    "location": "Guarico",
+    "elevationFeet": "328",
+    "contintent": "SA",
+    "countryCode": "VE"
+  },
+  {
+    "code": "RWI",
+    "name": "Rocky Mount Wilson Regional Airport",
+    "location": "Rocky Mount",
+    "elevationFeet": "159",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "LRQ",
+    "name": "Laurie River Airport",
+    "location": "Laurie River",
+    "elevationFeet": "1200",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "TYN",
+    "name": "Taiyuan Wusu Airport",
+    "location": "Taiyuan",
+    "elevationFeet": "2575",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "GMA",
+    "name": "Gemena Airport",
+    "location": "Gemena",
+    "elevationFeet": "1378",
+    "contintent": "AF",
+    "countryCode": "CD"
+  },
+  {
+    "code": "KTY",
+    "name": "Katukurunda Air Force Base",
+    "location": "Kalutara",
+    "elevationFeet": "10",
+    "contintent": "AS",
+    "countryCode": "LK"
+  },
+  {
+    "code": "BQU",
+    "name": "J F Mitchell Airport",
+    "location": "Bequia",
+    "elevationFeet": "15",
+    "contintent": "NA",
+    "countryCode": "VC"
+  },
+  {
+    "code": "LLM",
+    "name": "Long Lama Airport",
+    "location": "Long Lama",
+    "elevationFeet": "286",
+    "contintent": "AS",
+    "countryCode": "MY"
+  },
+  {
+    "code": "LFK",
+    "name": "Angelina County Airport",
+    "location": "Lufkin",
+    "elevationFeet": "296",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "HNH",
+    "name": "Hoonah Airport",
+    "location": "Hoonah",
+    "elevationFeet": "19",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CTA",
+    "name": "Catania-Fontanarossa Airport",
+    "location": "Catania",
+    "elevationFeet": "39",
+    "contintent": "EU",
+    "countryCode": "IT"
+  },
+  {
+    "code": "VPG",
+    "name": "Vipingo Estate Airport",
+    "location": "Vipingo Estate",
+    "elevationFeet": "86",
+    "contintent": "AF",
+    "countryCode": "KE"
+  },
+  {
+    "code": "GCA",
+    "name": "Guacamayas Airport",
+    "location": "Guacamayas",
+    "elevationFeet": "1500",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "SKA",
+    "name": "Fairchild Air Force Base",
+    "location": "Spokane",
+    "elevationFeet": "2461",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SSX",
+    "name": "Singita Safari Lodge Airport",
+    "location": "Singita Safari Lodge",
+    "elevationFeet": "1365",
+    "contintent": "AF",
+    "countryCode": "ZA"
+  },
+  {
+    "code": "LQK",
+    "name": "Pickens County Airport",
+    "location": "Pickens",
+    "elevationFeet": "1013",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "PPW",
+    "name": "Papa Westray Airport",
+    "location": "Papa Westray",
+    "elevationFeet": "91",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "JRA",
+    "name": "West 30th St. Heliport",
+    "location": "New York",
+    "elevationFeet": "7",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "VSK",
+    "name": "Vista Field",
+    "location": "Kennewick",
+    "elevationFeet": "534",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "0",
+    "name": "Guaporé Airport",
+    "location": "Guaporé",
+    "elevationFeet": "1558",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "VGA",
+    "name": "Vijayawada Airport",
+    "location": null,
+    "elevationFeet": "82",
+    "contintent": "AS",
+    "countryCode": "IN"
+  },
+  {
+    "code": "QND",
+    "name": "Cenej Airport",
+    "location": "Novi Sad",
+    "elevationFeet": "266",
+    "contintent": "EU",
+    "countryCode": "RS"
+  },
+  {
+    "code": "SIE",
+    "name": "Sines Airport",
+    "location": null,
+    "elevationFeet": null,
+    "contintent": "EU",
+    "countryCode": "PT"
+  },
+  {
+    "code": "PRE",
+    "name": "Pore Airport",
+    "location": "Pore",
+    "elevationFeet": "975",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "FLI",
+    "name": "Holt Airport",
+    "location": "Flateyri",
+    "elevationFeet": "10",
+    "contintent": "EU",
+    "countryCode": "IS"
+  },
+  {
+    "code": "KMC",
+    "name": "King Khaled Military City Airport",
+    "location": "King Khaled Military City",
+    "elevationFeet": "1352",
+    "contintent": "AS",
+    "countryCode": "SA"
+  },
+  {
+    "code": "MRS",
+    "name": "Marseille Provence Airport",
+    "location": "Marseille",
+    "elevationFeet": "74",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "URR",
+    "name": "Urrao Airport",
+    "location": "Urrao",
+    "elevationFeet": "6090",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "MEN",
+    "name": "Mende-Brenoux Airfield",
+    "location": "Mende/Brénoux",
+    "elevationFeet": "3362",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "HUA",
+    "name": "Redstone Army Air Field",
+    "location": "Redstone Arsnl Huntsville",
+    "elevationFeet": "684",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "AQY",
+    "name": "Girdwood Airport",
+    "location": "Girdwood",
+    "elevationFeet": "150",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TRQ",
+    "name": "Tarauacá Airport",
+    "location": "Tarauacá",
+    "elevationFeet": "646",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "0",
+    "name": "Morro do Chapéu Airport",
+    "location": "Morro Do Chapéu",
+    "elevationFeet": "3609",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "GWS",
+    "name": "Glenwood Springs Municipal Airport",
+    "location": "Glenwood Springs",
+    "elevationFeet": "5916",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BXF",
+    "name": "Bellburn Airstrip",
+    "location": "Pumululu National Park",
+    "elevationFeet": "810",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "HOQ",
+    "name": "Hof-Plauen Airport",
+    "location": "Hof",
+    "elevationFeet": "1959",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "ZJG",
+    "name": "Jenpeg Airport",
+    "location": "Jenpeg",
+    "elevationFeet": "729",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "LGD",
+    "name": "La Grande/Union County Airport",
+    "location": "La Grande",
+    "elevationFeet": "2717",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BLL",
+    "name": "Billund Airport",
+    "location": "Billund",
+    "elevationFeet": "247",
+    "contintent": "EU",
+    "countryCode": "DK"
+  },
+  {
+    "code": "RVV",
+    "name": "Raivavae Airport",
+    "location": null,
+    "elevationFeet": "7",
+    "contintent": "OC",
+    "countryCode": "PF"
+  },
+  {
+    "code": "MNP",
+    "name": "Maron Island Airport",
+    "location": "Hermit Islands",
+    "elevationFeet": "4",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "EED",
+    "name": "Needles Airport",
+    "location": "Needles",
+    "elevationFeet": "983",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MEQ",
+    "name": "Seunagan Airport",
+    "location": "Peureumeue-Sumatra Island",
+    "elevationFeet": "10",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "HBG",
+    "name": "Hattiesburg Bobby L Chain Municipal Airport",
+    "location": "Hattiesburg",
+    "elevationFeet": "151",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "YZF",
+    "name": "Yellowknife Airport",
+    "location": "Yellowknife",
+    "elevationFeet": "675",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "BAZ",
+    "name": "Barcelos Airport",
+    "location": "Barcelos",
+    "elevationFeet": "112",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "CYO",
+    "name": "Vilo Acuña International Airport",
+    "location": "Cayo Largo del Sur",
+    "elevationFeet": "10",
+    "contintent": "NA",
+    "countryCode": "CU"
+  },
+  {
+    "code": "TYF",
+    "name": "Torsby Airport",
+    "location": null,
+    "elevationFeet": "393",
+    "contintent": "EU",
+    "countryCode": "SE"
+  },
+  {
+    "code": "KCB",
+    "name": "Tepoe Airstrip",
+    "location": "Kasikasima",
+    "elevationFeet": "596",
+    "contintent": "SA",
+    "countryCode": "SR"
+  },
+  {
+    "code": "MHS",
+    "name": "Dunsmuir Muni-Mott Airport",
+    "location": "Dunsmuir",
+    "elevationFeet": "3258",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TBQ",
+    "name": "Tarabo Airport",
+    "location": "Tarabo",
+    "elevationFeet": "6100",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "KIS",
+    "name": "Kisumu Airport",
+    "location": "Kisumu",
+    "elevationFeet": "3734",
+    "contintent": "AF",
+    "countryCode": "KE"
+  },
+  {
+    "code": "GOK",
+    "name": "Guthrie-Edmond Regional Airport",
+    "location": "Guthrie",
+    "elevationFeet": "1069",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KKU",
+    "name": "Ekuk Airport",
+    "location": "Ekuk",
+    "elevationFeet": "30",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BKN",
+    "name": "Balkanabat Airport",
+    "location": "Balkanabat",
+    "elevationFeet": "5",
+    "contintent": "AS",
+    "countryCode": "TM"
+  },
+  {
+    "code": "ZVG",
+    "name": "Springvale Airport",
+    "location": "Springvale",
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "YSI",
+    "name": "Parry Sound/Frying Pan Island-Sans Souci Seaplane Base",
+    "location": "Frying Pan Island",
+    "elevationFeet": "580",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CGP",
+    "name": "Shah Amanat International Airport",
+    "location": "Chittagong",
+    "elevationFeet": "12",
+    "contintent": "AS",
+    "countryCode": "BD"
+  },
+  {
+    "code": "HUV",
+    "name": "Hudiksvall Airport",
+    "location": "Hudiksvall",
+    "elevationFeet": "95",
+    "contintent": "EU",
+    "countryCode": "SE"
+  },
+  {
+    "code": "NKW",
+    "name": "Diego Garcia Naval Support Facility",
+    "location": "Diego Garcia",
+    "elevationFeet": "9",
+    "contintent": "AS",
+    "countryCode": "IO"
+  },
+  {
+    "code": "LUO",
+    "name": "Luena Airport",
+    "location": "Luena",
+    "elevationFeet": "4360",
+    "contintent": "AF",
+    "countryCode": "AO"
+  },
+  {
+    "code": "BKP",
+    "name": "Barkly Downs Airport",
+    "location": null,
+    "elevationFeet": "810",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "CHG",
+    "name": "Chaoyang Airport",
+    "location": "Chaoyang",
+    "elevationFeet": "568",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "OIM",
+    "name": "Oshima Airport",
+    "location": "Izu Oshima",
+    "elevationFeet": "130",
+    "contintent": "AS",
+    "countryCode": "JP"
+  },
+  {
+    "code": "STL",
+    "name": "St Louis Lambert International Airport",
+    "location": "St Louis",
+    "elevationFeet": "618",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "NKB",
+    "name": "Noonkanbah Airport",
+    "location": null,
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "CCF",
+    "name": "Carcassonne Airport",
+    "location": "Carcassonne/Salvaza",
+    "elevationFeet": "433",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "BBB",
+    "name": "Benson Municipal Airport",
+    "location": "Benson",
+    "elevationFeet": "1039",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "GNA",
+    "name": "Hrodna Airport",
+    "location": "Hrodna",
+    "elevationFeet": "443",
+    "contintent": "EU",
+    "countryCode": "BY"
+  },
+  {
+    "code": "OOL",
+    "name": "Gold Coast Airport",
+    "location": "Gold Coast",
+    "elevationFeet": "21",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "PSE",
+    "name": "Mercedita Airport",
+    "location": "Ponce",
+    "elevationFeet": "29",
+    "contintent": "NA",
+    "countryCode": "PR"
+  },
+  {
+    "code": "KFG",
+    "name": "Kalkgurung Airport",
+    "location": null,
+    "elevationFeet": "646",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "SZZ",
+    "name": "Szczecin-Goleniów \"Solidarność\" Airport",
+    "location": "Goleniow",
+    "elevationFeet": "154",
+    "contintent": "EU",
+    "countryCode": "PL"
+  },
+  {
+    "code": "BYA",
+    "name": "Boundary Airport",
+    "location": "Boundary",
+    "elevationFeet": "2940",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "AKX",
+    "name": "Aktobe Airport",
+    "location": "Aktyubinsk",
+    "elevationFeet": "738",
+    "contintent": "AS",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "AKX",
+    "name": "Aktobe Airport",
+    "location": "Aktyubinsk",
+    "elevationFeet": "738",
+    "contintent": "AS",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "ROW",
+    "name": "Roswell International Air Center Airport",
+    "location": "Roswell",
+    "elevationFeet": "3671",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "YAR",
+    "name": "La Grande-3 Airport",
+    "location": "La Grande-3",
+    "elevationFeet": "775",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "SHI",
+    "name": "Shimojishima Airport",
+    "location": "Shimojishima",
+    "elevationFeet": "54",
+    "contintent": "AS",
+    "countryCode": "JP"
+  },
+  {
+    "code": "CDR",
+    "name": "Chadron Municipal Airport",
+    "location": "Chadron",
+    "elevationFeet": "3297",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TGM",
+    "name": "Transilvania Târgu Mureş International Airport",
+    "location": "Târgu Mureş",
+    "elevationFeet": "963",
+    "contintent": "EU",
+    "countryCode": "RO"
+  },
+  {
+    "code": "DOG",
+    "name": "Dongola Airport",
+    "location": "Dongola",
+    "elevationFeet": "772",
+    "contintent": "AF",
+    "countryCode": "SD"
+  },
+  {
+    "code": "ORM",
+    "name": "Sywell Aerodrome",
+    "location": "Northampton",
+    "elevationFeet": "429",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "CUD",
+    "name": "Caloundra Airport",
+    "location": null,
+    "elevationFeet": "12",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "RND",
+    "name": "Randolph Air Force Base",
+    "location": "Universal City",
+    "elevationFeet": "761",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "GQQ",
+    "name": "Galion Municipal Airport",
+    "location": "Galion",
+    "elevationFeet": "1224",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MRQ",
+    "name": "Marinduque Airport",
+    "location": "Gasan",
+    "elevationFeet": "32",
+    "contintent": "AS",
+    "countryCode": "PH"
+  },
+  {
+    "code": "MRB",
+    "name": "Eastern WV Regional Airport/Shepherd Field",
+    "location": "Martinsburg",
+    "elevationFeet": "565",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BTU",
+    "name": "Bintulu Airport",
+    "location": "Bintulu",
+    "elevationFeet": "74",
+    "contintent": "AS",
+    "countryCode": "MY"
+  },
+  {
+    "code": "PHM",
+    "name": "Böblingen Flugfeld",
+    "location": "Böblingen",
+    "elevationFeet": null,
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "WRE",
+    "name": "Whangarei Airport",
+    "location": null,
+    "elevationFeet": "133",
+    "contintent": "OC",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "HSB",
+    "name": "Harrisburg-Raleigh Airport",
+    "location": "Harrisburg",
+    "elevationFeet": "398",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "INM",
+    "name": "Innamincka Airport",
+    "location": null,
+    "elevationFeet": "54",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "LAP",
+    "name": "Manuel Márquez de León International Airport",
+    "location": "La Paz",
+    "elevationFeet": "69",
+    "contintent": "NA",
+    "countryCode": "MX"
+  },
+  {
+    "code": "OAN",
+    "name": "El Arrayán Airport",
+    "location": "Olanchito",
+    "elevationFeet": "722",
+    "contintent": "NA",
+    "countryCode": "HN"
+  },
+  {
+    "code": "XMA",
+    "name": "Maramag Airport",
+    "location": "Maramag",
+    "elevationFeet": "919",
+    "contintent": "AS",
+    "countryCode": "PH"
+  },
+  {
+    "code": "0",
+    "name": "Aeroclube Airport",
+    "location": "Passo Fundo",
+    "elevationFeet": "1969",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "TWE",
+    "name": "Taylor Airport",
+    "location": "Taylor",
+    "elevationFeet": "440",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "HAV",
+    "name": "José Martí International Airport",
+    "location": "Havana",
+    "elevationFeet": "210",
+    "contintent": "NA",
+    "countryCode": "CU"
+  },
+  {
+    "code": "LNJ",
+    "name": "Lintsang Airfield",
+    "location": "Lincang",
+    "elevationFeet": "6230",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "ZUH",
+    "name": "Zhuhai Jinwan Airport",
+    "location": "Zhuhai",
+    "elevationFeet": "23",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "LGM",
+    "name": "Laiagam Airport",
+    "location": "Laiagam",
+    "elevationFeet": "7267",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "ALF",
+    "name": "Alta Airport",
+    "location": "Alta",
+    "elevationFeet": "9",
+    "contintent": "EU",
+    "countryCode": "NO"
+  },
+  {
+    "code": "HRR",
+    "name": "Herrera Airport",
+    "location": "Campiña",
+    "elevationFeet": "5740",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "BJG",
+    "name": "Boalang Airport",
+    "location": "Boalang-Celebes Island",
+    "elevationFeet": "146",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "FIE",
+    "name": "Fair Isle Airport",
+    "location": "Fair Isle",
+    "elevationFeet": "223",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "SXT",
+    "name": "Sungai Tiang Airport",
+    "location": "Taman Negara",
+    "elevationFeet": "10",
+    "contintent": "AS",
+    "countryCode": "MY"
+  },
+  {
+    "code": "CHR",
+    "name": "Châteauroux-Déols \"Marcel Dassault\" Airport",
+    "location": "Châteauroux/Déols",
+    "elevationFeet": "529",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "FID",
+    "name": "Elizabeth Field",
+    "location": "Fishers Island",
+    "elevationFeet": "9",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "WHP",
+    "name": "Whiteman Airport",
+    "location": "Los Angeles",
+    "elevationFeet": "1003",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "LVR",
+    "name": "Municipal Bom Futuro Airport",
+    "location": "Lucas do Rio Verde",
+    "elevationFeet": "1345",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "SOM",
+    "name": "San Tomé Airport",
+    "location": "El Tigre",
+    "elevationFeet": "861",
+    "contintent": "SA",
+    "countryCode": "VE"
+  },
+  {
+    "code": "TAD",
+    "name": "Perry Stokes Airport",
+    "location": "Trinidad",
+    "elevationFeet": "5762",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "IPI",
+    "name": "San Luis Airport",
+    "location": "Ipiales",
+    "elevationFeet": "9765",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "DAS",
+    "name": "Great Bear Lake Airport",
+    "location": "Great Bear Lake",
+    "elevationFeet": "562",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "MWZ",
+    "name": "Mwanza Airport",
+    "location": "Mwanza",
+    "elevationFeet": "3763",
+    "contintent": "AF",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "ENC",
+    "name": "Nancy-Essey Airport",
+    "location": "Nancy/Essey",
+    "elevationFeet": "751",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "TUK",
+    "name": "Turbat International Airport",
+    "location": "Turbat",
+    "elevationFeet": "498",
+    "contintent": "AS",
+    "countryCode": "PK"
+  },
+  {
+    "code": "RAS",
+    "name": "Sardar-e-Jangal Airport",
+    "location": "Rasht",
+    "elevationFeet": "-40",
+    "contintent": "AS",
+    "countryCode": "IR"
+  },
+  {
+    "code": "SHU",
+    "name": "Smith Point Airport",
+    "location": null,
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "FRS",
+    "name": "Mundo Maya International Airport",
+    "location": "San Benito",
+    "elevationFeet": "427",
+    "contintent": "NA",
+    "countryCode": "GT"
+  },
+  {
+    "code": "TBO",
+    "name": "Tabora Airport",
+    "location": "Tabora",
+    "elevationFeet": "3868",
+    "contintent": "AF",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "CTL",
+    "name": "Charleville Airport",
+    "location": "Charleville",
+    "elevationFeet": "1003",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "GDV",
+    "name": "Dawson Community Airport",
+    "location": "Glendive",
+    "elevationFeet": "2458",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "OSH",
+    "name": "Wittman Regional Airport",
+    "location": "Oshkosh",
+    "elevationFeet": "808",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MMQ",
+    "name": "Mbala Airport",
+    "location": "Mbala",
+    "elevationFeet": "5454",
+    "contintent": "AF",
+    "countryCode": "ZM"
+  },
+  {
+    "code": "GXY",
+    "name": "Greeley–Weld County Airport",
+    "location": "Greeley",
+    "elevationFeet": "4697",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MDW",
+    "name": "Chicago Midway International Airport",
+    "location": "Chicago",
+    "elevationFeet": "620",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "NRA",
+    "name": "Narrandera Airport",
+    "location": "Narrandera",
+    "elevationFeet": "474",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "HSC",
+    "name": "Shaoguan Guitou Airport",
+    "location": "Shaoguan",
+    "elevationFeet": "280",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "HAZ",
+    "name": "Hatzfeldhaven Airport",
+    "location": "Hatzfeldhaven",
+    "elevationFeet": "26",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "CQP",
+    "name": "Cape Flattery Airport",
+    "location": null,
+    "elevationFeet": "3609",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "KDO",
+    "name": "Kadhdhoo Airport",
+    "location": "Kadhdhoo",
+    "elevationFeet": "4",
+    "contintent": "AS",
+    "countryCode": "MV"
+  },
+  {
+    "code": "AML",
+    "name": "Puerto Armuelles Airport",
+    "location": "Puerto Armuelles",
+    "elevationFeet": "42",
+    "contintent": "NA",
+    "countryCode": "PA"
+  },
+  {
+    "code": "ZTR",
+    "name": "Zhytomyr Airport",
+    "location": null,
+    "elevationFeet": null,
+    "contintent": "EU",
+    "countryCode": "UA"
+  },
+  {
+    "code": "CGH",
+    "name": "Congonhas Airport",
+    "location": "São Paulo",
+    "elevationFeet": "2631",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "VQQ",
+    "name": "Cecil Airport",
+    "location": "Jacksonville",
+    "elevationFeet": "81",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "LUX",
+    "name": "Luxembourg-Findel International Airport",
+    "location": "Luxembourg",
+    "elevationFeet": "1234",
+    "contintent": "EU",
+    "countryCode": "LU"
+  },
+  {
+    "code": "ZHI",
+    "name": "Grenchen Airport",
+    "location": "Grenchen",
+    "elevationFeet": "1411",
+    "contintent": "EU",
+    "countryCode": "CH"
+  },
+  {
+    "code": "BKT",
+    "name": "Allen C Perkinson Blackstone Army Air Field",
+    "location": "Blackstone",
+    "elevationFeet": "439",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "PKD",
+    "name": "Park Rapids Municipal Konshok Field",
+    "location": "Park Rapids",
+    "elevationFeet": "1445",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "PYK",
+    "name": "Payam International Airport",
+    "location": "Karaj",
+    "elevationFeet": "4170",
+    "contintent": "AS",
+    "countryCode": "IR"
+  },
+  {
+    "code": "WLA",
+    "name": "Wallal Airport",
+    "location": "Wallal",
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "HJT",
+    "name": "Khujirt Airport",
+    "location": "Khujirt",
+    "elevationFeet": "5522",
+    "contintent": "AS",
+    "countryCode": "MN"
+  },
+  {
+    "code": "BDO",
+    "name": "Husein Sastranegara International Airport",
+    "location": "Bandung-Java Island",
+    "elevationFeet": "2436",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "UIO",
+    "name": "Mariscal Sucre International Airport",
+    "location": "Quito",
+    "elevationFeet": "7841",
+    "contintent": "SA",
+    "countryCode": "EC"
+  },
+  {
+    "code": "KIG",
+    "name": "Koingnaas Airport",
+    "location": "Koingnaas",
+    "elevationFeet": "228",
+    "contintent": "AF",
+    "countryCode": "ZA"
+  },
+  {
+    "code": "0",
+    "name": "Veranópolis Airport",
+    "location": "Veranópolis",
+    "elevationFeet": "2133",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "KMG",
+    "name": "Kunming Changshui International Airport",
+    "location": "Kunming",
+    "elevationFeet": "6903",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "BXL",
+    "name": "Blue Lagoon Seaplane Base",
+    "location": "Nanuya Lailai Island",
+    "elevationFeet": "0",
+    "contintent": "OC",
+    "countryCode": "FJ"
+  },
+  {
+    "code": "YYA",
+    "name": "Sanhe Airport",
+    "location": "Yueyang",
+    "elevationFeet": "230",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "NIB",
+    "name": "Nikolai Airport",
+    "location": "Nikolai",
+    "elevationFeet": "441",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "PKE",
+    "name": "Parkes Airport",
+    "location": "Parkes",
+    "elevationFeet": "1069",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "KXU",
+    "name": "Katiu Airport",
+    "location": "Katiu",
+    "elevationFeet": "7",
+    "contintent": "OC",
+    "countryCode": "PF"
+  },
+  {
+    "code": "ZNZ",
+    "name": "Abeid Amani Karume International Airport",
+    "location": "Zanzibar",
+    "elevationFeet": "54",
+    "contintent": "AF",
+    "countryCode": "TZ"
+  },
+  {
+    "code": "YCN",
+    "name": "Cochrane Airport",
+    "location": "Cochrane",
+    "elevationFeet": "861",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "MJB",
+    "name": "Mejit Atoll Airport",
+    "location": "Mejit Atoll",
+    "elevationFeet": "5",
+    "contintent": "OC",
+    "countryCode": "MH"
+  },
+  {
+    "code": "MFB",
+    "name": "Monfort Airport",
+    "location": "Monfort",
+    "elevationFeet": "630",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "FCH",
+    "name": "Fresno Chandler Executive Airport",
+    "location": "Fresno",
+    "elevationFeet": "279",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KNJ",
+    "name": "Kindamba Airport",
+    "location": "Kindamba",
+    "elevationFeet": "1460",
+    "contintent": "AF",
+    "countryCode": "CG"
+  },
+  {
+    "code": "UTW",
+    "name": "Queenstown Airport",
+    "location": "Queenstown",
+    "elevationFeet": "3637",
+    "contintent": "AF",
+    "countryCode": "ZA"
+  },
+  {
+    "code": "CLB",
+    "name": "Castlebar Airport",
+    "location": "Castlebar",
+    "elevationFeet": null,
+    "contintent": "EU",
+    "countryCode": "IE"
+  },
+  {
+    "code": "DHT",
+    "name": "Dalhart Municipal Airport",
+    "location": "Dalhart",
+    "elevationFeet": "3991",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "QSR",
+    "name": "Salerno Costa d'Amalfi Airport",
+    "location": "Salerno",
+    "elevationFeet": "119",
+    "contintent": "EU",
+    "countryCode": "IT"
+  },
+  {
+    "code": "MHC",
+    "name": "Mocopulli Airport",
+    "location": "Dalcahue",
+    "elevationFeet": "528",
+    "contintent": "SA",
+    "countryCode": "CL"
+  },
+  {
+    "code": "JSR",
+    "name": "Jessore Airport",
+    "location": "Jashahor",
+    "elevationFeet": "20",
+    "contintent": "AS",
+    "countryCode": "BD"
+  },
+  {
+    "code": "WDR",
+    "name": "Barrow County Airport",
+    "location": "Winder",
+    "elevationFeet": "943",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "YVB",
+    "name": "Bonaventure Airport",
+    "location": "Bonaventure",
+    "elevationFeet": "123",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "CAK",
+    "name": "Akron Canton Regional Airport",
+    "location": "Akron",
+    "elevationFeet": "1228",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "WPO",
+    "name": "North Fork Valley Airport",
+    "location": "Paonia",
+    "elevationFeet": "5798",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "JJU",
+    "name": "Qaqortoq Heliport",
+    "location": "Qaqortoq",
+    "elevationFeet": "53",
+    "contintent": "NA",
+    "countryCode": "GL"
+  },
+  {
+    "code": "BIM",
+    "name": "South Bimini Airport",
+    "location": "South Bimini",
+    "elevationFeet": "10",
+    "contintent": "NA",
+    "countryCode": "BS"
+  },
+  {
+    "code": "CKS",
+    "name": "Carajás Airport",
+    "location": "Parauapebas",
+    "elevationFeet": "2064",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "RMD",
+    "name": "Basanth Nagar Airport",
+    "location": "Ramagundam",
+    "elevationFeet": "670",
+    "contintent": "AS",
+    "countryCode": "IN"
+  },
+  {
+    "code": "TAD",
+    "name": "Perry Stokes Airport",
+    "location": "Trinidad",
+    "elevationFeet": "5762",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "DGN",
+    "name": "Dahlgren Naval Surface Warfare Center Airport",
+    "location": "Dahlgren",
+    "elevationFeet": "18",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "UUU",
+    "name": "Manumu Airport",
+    "location": "Manumu",
+    "elevationFeet": "1800",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "AZL",
+    "name": "Fazenda Tucunaré Airport",
+    "location": "Sapezal",
+    "elevationFeet": "1814",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "FDR",
+    "name": "Frederick Regional Airport",
+    "location": "Frederick",
+    "elevationFeet": "1258",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "RDC",
+    "name": "Redenção Airport",
+    "location": "Redenção",
+    "elevationFeet": "670",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "NAQ",
+    "name": "Qaanaaq Airport",
+    "location": "Qaanaaq",
+    "elevationFeet": "51",
+    "contintent": "NA",
+    "countryCode": "GL"
+  },
+  {
+    "code": "GFY",
+    "name": "Grootfontein Airport",
+    "location": "Grootfontein",
+    "elevationFeet": "4636",
+    "contintent": "AF",
+    "countryCode": "NA"
+  },
+  {
+    "code": "EAB",
+    "name": "Abbse Airport",
+    "location": "Abbse",
+    "elevationFeet": "651",
+    "contintent": "AS",
+    "countryCode": "YE"
+  },
+  {
+    "code": "GDQ",
+    "name": "Gonder Airport",
+    "location": "Gondar",
+    "elevationFeet": "6449",
+    "contintent": "AF",
+    "countryCode": "ET"
+  },
+  {
+    "code": "MVI",
+    "name": "Manetai Airport",
+    "location": "Manetai",
+    "elevationFeet": "170",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "QOA",
+    "name": "Mococa Airport",
+    "location": "Mococa",
+    "elevationFeet": "2116",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "PVH",
+    "name": "Governador Jorge Teixeira de Oliveira Airport",
+    "location": "Porto Velho",
+    "elevationFeet": "290",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "MBO",
+    "name": "Mamburao Airport",
+    "location": null,
+    "elevationFeet": "13",
+    "contintent": "AS",
+    "countryCode": "PH"
+  },
+  {
+    "code": "ALD",
+    "name": "Alerta Airport",
+    "location": "Fortaleza",
+    "elevationFeet": "797",
+    "contintent": "SA",
+    "countryCode": "PE"
+  },
+  {
+    "code": "IOS",
+    "name": "Bahia - Jorge Amado Airport",
+    "location": "Ilhéus",
+    "elevationFeet": "15",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "HIN",
+    "name": "Sacheon Air Base/Airport",
+    "location": "Sacheon",
+    "elevationFeet": "25",
+    "contintent": "AS",
+    "countryCode": "KR"
+  },
+  {
+    "code": "CAC",
+    "name": "Cascavel Airport",
+    "location": "Cascavel",
+    "elevationFeet": "2473",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "HSP",
+    "name": "Ingalls Field",
+    "location": "Hot Springs",
+    "elevationFeet": "3793",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "PPJ",
+    "name": "Pulau Panjang Airport",
+    "location": "Jakarta",
+    "elevationFeet": "155",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "AXD",
+    "name": "Dimokritos Airport",
+    "location": "Alexandroupolis",
+    "elevationFeet": "24",
+    "contintent": "EU",
+    "countryCode": "GR"
+  },
+  {
+    "code": "CTA",
+    "name": "Catania-Fontanarossa Airport",
+    "location": "Catania",
+    "elevationFeet": "39",
+    "contintent": "EU",
+    "countryCode": "IT"
+  },
+  {
+    "code": "TTD",
+    "name": "Portland Troutdale Airport",
+    "location": "Portland",
+    "elevationFeet": "39",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "AXM",
+    "name": "El Eden Airport",
+    "location": "Armenia",
+    "elevationFeet": "3990",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "TYZ",
+    "name": "Taylor Airport",
+    "location": "Taylor",
+    "elevationFeet": "5823",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "PET",
+    "name": "João Simões Lopes Neto International Airport",
+    "location": "Pelotas",
+    "elevationFeet": "59",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "OKL",
+    "name": "Oksibil Airport",
+    "location": "Oksibil-Papua Island",
+    "elevationFeet": "4315",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "MQS",
+    "name": "Mustique Airport",
+    "location": "Mustique Island",
+    "elevationFeet": "8",
+    "contintent": "NA",
+    "countryCode": "VC"
+  },
+  {
+    "code": "NME",
+    "name": "Nightmute Airport",
+    "location": "Nightmute",
+    "elevationFeet": "4",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "REB",
+    "name": "Rechlin-Lärz Airport",
+    "location": "Lärz",
+    "elevationFeet": "220",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "BPN",
+    "name": "Sultan Aji Muhamad Sulaiman Airport",
+    "location": "Kotamadya Balikpapan",
+    "elevationFeet": "12",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "BTL",
+    "name": "W K Kellogg Airport",
+    "location": "Battle Creek",
+    "elevationFeet": "952",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SMX",
+    "name": "Santa Maria Pub/Capt G Allan Hancock Field",
+    "location": "Santa Maria",
+    "elevationFeet": "261",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "WAD",
+    "name": "Andriamena Airport",
+    "location": "Andriamena",
+    "elevationFeet": "2475",
+    "contintent": "AF",
+    "countryCode": "MG"
+  },
+  {
+    "code": "ABF",
+    "name": "Abaiang Airport",
+    "location": "Abaiang",
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "KI"
+  },
+  {
+    "code": "DGR",
+    "name": "Dargaville Aerodrome",
+    "location": null,
+    "elevationFeet": "10",
+    "contintent": "OC",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "BVV",
+    "name": "Burevestnik Airport",
+    "location": "Iturup Island",
+    "elevationFeet": "79",
+    "contintent": "EU",
+    "countryCode": "RU"
+  },
+  {
+    "code": "BWK",
+    "name": "Bol Airport",
+    "location": "Brač Island",
+    "elevationFeet": "1776",
+    "contintent": "EU",
+    "countryCode": "HR"
+  },
+  {
+    "code": "SWH",
+    "name": "Swan Hill Airport",
+    "location": null,
+    "elevationFeet": "234",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "FAQ",
+    "name": "Frieda River Airport",
+    "location": "Frieda River",
+    "elevationFeet": "217",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "IVH",
+    "name": "Ivishak Airport",
+    "location": "Ivishak River",
+    "elevationFeet": "677",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "GAN",
+    "name": "Gan International Airport",
+    "location": "Gan",
+    "elevationFeet": "6",
+    "contintent": "AS",
+    "countryCode": "MV"
+  },
+  {
+    "code": "OUS",
+    "name": "Ourinhos Airport",
+    "location": "Ourinhos",
+    "elevationFeet": "1532",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "KTX",
+    "name": "Koutiala Airport",
+    "location": "Koutiala",
+    "elevationFeet": "1240",
+    "contintent": "AF",
+    "countryCode": "ML"
+  },
+  {
+    "code": "GNB",
+    "name": "Grenoble-Isère Airport",
+    "location": "Grenoble/Saint-Geoirs",
+    "elevationFeet": "1302",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "ITE",
+    "name": "Ituberá Airport",
+    "location": "Ituberá",
+    "elevationFeet": "13",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "ADD",
+    "name": "Addis Ababa Bole International Airport",
+    "location": "Addis Ababa",
+    "elevationFeet": "7630",
+    "contintent": "AF",
+    "countryCode": "ET"
+  },
+  {
+    "code": "OHO",
+    "name": "Okhotsk Airport",
+    "location": "Okhotsk",
+    "elevationFeet": null,
+    "contintent": "AS",
+    "countryCode": "RU"
+  },
+  {
+    "code": "TDB",
+    "name": "Tetebedi Airport",
+    "location": "Tetebedi",
+    "elevationFeet": "3365",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "DEA",
+    "name": "Dera Ghazi Khan Airport",
+    "location": "Dera Ghazi Khan",
+    "elevationFeet": "492",
+    "contintent": "AS",
+    "countryCode": "PK"
+  },
+  {
+    "code": "SHD",
+    "name": "Shenandoah Valley Regional Airport",
+    "location": "Staunton/Waynesboro/Harrisonburg",
+    "elevationFeet": "1201",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BHS",
+    "name": "Bathurst Airport",
+    "location": "Bathurst",
+    "elevationFeet": "2435",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "TCM",
+    "name": "McChord Air Force Base",
+    "location": "Tacoma",
+    "elevationFeet": "322",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KEL",
+    "name": "Kiel-Holtenau Airport",
+    "location": "Kiel",
+    "elevationFeet": "102",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "KGS",
+    "name": "Kos Airport",
+    "location": "Kos Island",
+    "elevationFeet": "412",
+    "contintent": "EU",
+    "countryCode": "GR"
+  },
+  {
+    "code": "SNR",
+    "name": "Saint-Nazaire-Montoir Airport",
+    "location": "Saint-Nazaire/Montoir",
+    "elevationFeet": "13",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "SIH",
+    "name": "Silgadi Doti Airport",
+    "location": "Silgadi Doti",
+    "elevationFeet": "2100",
+    "contintent": "AS",
+    "countryCode": "NP"
+  },
+  {
+    "code": "STY",
+    "name": "Nueva Hesperides International Airport",
+    "location": "Salto",
+    "elevationFeet": "187",
+    "contintent": "SA",
+    "countryCode": "UY"
+  },
+  {
+    "code": "PPN",
+    "name": "Guillermo León Valencia Airport",
+    "location": "Popayán",
+    "elevationFeet": "5687",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "KLN",
+    "name": "Larsen Bay Airport",
+    "location": "Larsen Bay",
+    "elevationFeet": "87",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "LNC",
+    "name": "Lengbati Airport",
+    "location": null,
+    "elevationFeet": "5750",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "TDR",
+    "name": "Theodore Airport",
+    "location": null,
+    "elevationFeet": "171",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "SAE",
+    "name": "Sangir Airport",
+    "location": "Sangir-Simbawa Island",
+    "elevationFeet": "175",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "YGC",
+    "name": "Grande Cache Airport",
+    "location": "Grande Cache",
+    "elevationFeet": "4117",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "KNR",
+    "name": "Jam Airport",
+    "location": "Kangan",
+    "elevationFeet": "2173",
+    "contintent": "AS",
+    "countryCode": "IR"
+  },
+  {
+    "code": "PIF",
+    "name": "Pingtung North Airport",
+    "location": "Pingtung",
+    "elevationFeet": "97",
+    "contintent": "AS",
+    "countryCode": "TW"
+  },
+  {
+    "code": "AFI",
+    "name": "Amalfi Airport",
+    "location": "Amalfi",
+    "elevationFeet": "5507",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "GAM",
+    "name": "Gambell Airport",
+    "location": "Gambell",
+    "elevationFeet": "27",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "HLS",
+    "name": "St Helens Airport",
+    "location": null,
+    "elevationFeet": "48",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "UGN",
+    "name": "Waukegan National Airport",
+    "location": "Chicago/Waukegan",
+    "elevationFeet": "727",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "GFF",
+    "name": "Griffith Airport",
+    "location": "Griffith",
+    "elevationFeet": "439",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "DRY",
+    "name": "Drysdale River Airport",
+    "location": null,
+    "elevationFeet": "360",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "LTD",
+    "name": "Ghadames East Airport",
+    "location": "Ghadames",
+    "elevationFeet": "1122",
+    "contintent": "AF",
+    "countryCode": "LY"
+  },
+  {
+    "code": "OHR",
+    "name": "Wyk auf Föhr Airport",
+    "location": "Wyk auf Föhr",
+    "elevationFeet": "26",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "DUF",
+    "name": "Pine Island Airport",
+    "location": "Corolla",
+    "elevationFeet": "16",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KNX",
+    "name": "Kununurra Airport",
+    "location": "Kununurra",
+    "elevationFeet": "145",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "SLY",
+    "name": "Salekhard Airport",
+    "location": "Salekhard",
+    "elevationFeet": "218",
+    "contintent": "AS",
+    "countryCode": "RU"
+  },
+  {
+    "code": "BHG",
+    "name": "Brus Laguna Airport",
+    "location": "Brus Laguna",
+    "elevationFeet": "19",
+    "contintent": "NA",
+    "countryCode": "HN"
+  },
+  {
+    "code": "ZFW",
+    "name": "Fairview Airport",
+    "location": "Fairview",
+    "elevationFeet": "2166",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "LDM",
+    "name": "Mason County Airport",
+    "location": "Ludington",
+    "elevationFeet": "646",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MWV",
+    "name": "Mondulkiri Airport",
+    "location": "Sen Monorom",
+    "elevationFeet": null,
+    "contintent": "AS",
+    "countryCode": "KH"
+  },
+  {
+    "code": "SCW",
+    "name": "Syktyvkar Airport",
+    "location": "Syktyvkar",
+    "elevationFeet": "342",
+    "contintent": "EU",
+    "countryCode": "RU"
+  },
+  {
+    "code": "ZTA",
+    "name": "Tureia Airport",
+    "location": null,
+    "elevationFeet": "12",
+    "contintent": "OC",
+    "countryCode": "PF"
+  },
+  {
+    "code": "DIL",
+    "name": "Presidente Nicolau Lobato International Airport",
+    "location": "Dili",
+    "elevationFeet": "154",
+    "contintent": "AS",
+    "countryCode": "TL"
+  },
+  {
+    "code": "FRJ",
+    "name": "Fréjus Airport",
+    "location": "Fréjus",
+    "elevationFeet": "33",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "UAK",
+    "name": "Narsarsuaq Airport",
+    "location": "Narsarsuaq",
+    "elevationFeet": "112",
+    "contintent": "NA",
+    "countryCode": "GL"
+  },
+  {
+    "code": "BDC",
+    "name": "Barra do Corda Airport",
+    "location": "Barra Do Corda",
+    "elevationFeet": "509",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "BME",
+    "name": "Broome International Airport",
+    "location": "Broome",
+    "elevationFeet": "56",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "MZH",
+    "name": "Amasya Merzifon Airport",
+    "location": "Amasya",
+    "elevationFeet": "1758",
+    "contintent": "AS",
+    "countryCode": "TR"
+  },
+  {
+    "code": "PAU",
+    "name": "Pauk Airport",
+    "location": "Pauk",
+    "elevationFeet": "249",
+    "contintent": "AS",
+    "countryCode": "MM"
+  },
+  {
+    "code": "RKV",
+    "name": "Reykjavik Airport",
+    "location": "Reykjavik",
+    "elevationFeet": "48",
+    "contintent": "EU",
+    "countryCode": "IS"
+  },
+  {
+    "code": "CXQ",
+    "name": "Christmas Creek Station Airport",
+    "location": "Christmas Creek",
+    "elevationFeet": "540",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "LXA",
+    "name": "Lhasa Gonggar Airport",
+    "location": "Lhasa",
+    "elevationFeet": "11713",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "DLG",
+    "name": "Dillingham Airport",
+    "location": "Dillingham",
+    "elevationFeet": "81",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "RBR",
+    "name": "Plácido de Castro Airport",
+    "location": "Rio Branco",
+    "elevationFeet": "633",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "LBR",
+    "name": "Lábrea Airport",
+    "location": "Lábrea",
+    "elevationFeet": "190",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "HGZ",
+    "name": "Hog River Airport",
+    "location": "Hogatza",
+    "elevationFeet": "534",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "OMF",
+    "name": "King Hussein Air College",
+    "location": "Mafraq",
+    "elevationFeet": "2240",
+    "contintent": "AS",
+    "countryCode": "JO"
+  },
+  {
+    "code": "KJK",
+    "name": "Wevelgem Airport",
+    "location": "Wevelgem",
+    "elevationFeet": "64",
+    "contintent": "EU",
+    "countryCode": "BE"
+  },
+  {
+    "code": "MQC",
+    "name": "Miquelon Airport",
+    "location": "Miquelon",
+    "elevationFeet": "10",
+    "contintent": "NA",
+    "countryCode": "PM"
+  },
+  {
+    "code": "FUO",
+    "name": "Foshan Shadi Airport",
+    "location": "Foshan",
+    "elevationFeet": "6",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "OBD",
+    "name": "Obano Airport",
+    "location": "Obano-Papua Island",
+    "elevationFeet": "5800",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "DXD",
+    "name": "Dixie Airport",
+    "location": "New Dixie",
+    "elevationFeet": "580",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "TGQ",
+    "name": "Tangará da Serra Airport",
+    "location": "Tangará Da Serra",
+    "elevationFeet": "1460",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "GWA",
+    "name": "Gwa Airport",
+    "location": "Gwa",
+    "elevationFeet": "10",
+    "contintent": "AS",
+    "countryCode": "MM"
+  },
+  {
+    "code": "BGK",
+    "name": "Big Creek Airport",
+    "location": "Big Creek",
+    "elevationFeet": "3",
+    "contintent": "NA",
+    "countryCode": "BZ"
+  },
+  {
+    "code": "KRF",
+    "name": "Kramfors Sollefteå Airport",
+    "location": "Kramfors / Sollefteå",
+    "elevationFeet": "34",
+    "contintent": "EU",
+    "countryCode": "SE"
+  },
+  {
+    "code": "PZS",
+    "name": "Maquehue Airport",
+    "location": "Temuco",
+    "elevationFeet": "304",
+    "contintent": "SA",
+    "countryCode": "CL"
+  },
+  {
+    "code": "GGW",
+    "name": "Wokal Field Glasgow International Airport",
+    "location": "Glasgow",
+    "elevationFeet": "2296",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BBR",
+    "name": "Baillif Airport",
+    "location": "Basse Terre",
+    "elevationFeet": "59",
+    "contintent": "NA",
+    "countryCode": "GP"
+  },
+  {
+    "code": "BXP",
+    "name": "Biała Podlaska Airfield",
+    "location": "Biała Podlaska",
+    "elevationFeet": "485",
+    "contintent": "EU",
+    "countryCode": "PL"
+  },
+  {
+    "code": "MGZ",
+    "name": "Myeik Airport",
+    "location": "Mkeik",
+    "elevationFeet": "75",
+    "contintent": "AS",
+    "countryCode": "MM"
+  },
+  {
+    "code": "RED",
+    "name": "Mifflin County Airport",
+    "location": "Reedsville",
+    "elevationFeet": "819",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KBN",
+    "name": "Tunta Airport",
+    "location": "Kabinda",
+    "elevationFeet": "2766",
+    "contintent": "AF",
+    "countryCode": "CD"
+  },
+  {
+    "code": "0",
+    "name": "Sertanópolis Airport",
+    "location": "Sertanópolis",
+    "elevationFeet": "1181",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "SIS",
+    "name": "Sishen Airport",
+    "location": "Sishen",
+    "elevationFeet": "3848",
+    "contintent": "AF",
+    "countryCode": "ZA"
+  },
+  {
+    "code": "KSJ",
+    "name": "Kasos Airport",
+    "location": "Kasos Island",
+    "elevationFeet": "35",
+    "contintent": "EU",
+    "countryCode": "GR"
+  },
+  {
+    "code": "SZW",
+    "name": "Schwerin Parchim Airport",
+    "location": null,
+    "elevationFeet": "166",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "SBG",
+    "name": "Maimun Saleh Airport",
+    "location": "Sabang-We Island",
+    "elevationFeet": "393",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "KDX",
+    "name": "Kadugli Airport",
+    "location": "Kadugli",
+    "elevationFeet": "1848",
+    "contintent": "AF",
+    "countryCode": "SD"
+  },
+  {
+    "code": "CZP",
+    "name": "Cape Pole Seaplane Base",
+    "location": "Cape Pole",
+    "elevationFeet": "0",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "LZA",
+    "name": "Luiza Airport",
+    "location": "Luiza",
+    "elevationFeet": "2890",
+    "contintent": "AF",
+    "countryCode": "CD"
+  },
+  {
+    "code": "HEA",
+    "name": "Herat Airport",
+    "location": null,
+    "elevationFeet": "3206",
+    "contintent": "AS",
+    "countryCode": "AF"
+  },
+  {
+    "code": "AMN",
+    "name": "Gratiot Community Airport",
+    "location": "Alma",
+    "elevationFeet": "754",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SRN",
+    "name": "Strahan Airport",
+    "location": null,
+    "elevationFeet": "20",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "HTG",
+    "name": "Khatanga Airport",
+    "location": "Khatanga",
+    "elevationFeet": "95",
+    "contintent": "AS",
+    "countryCode": "RU"
+  },
+  {
+    "code": "OAX",
+    "name": "Xoxocotlán International Airport",
+    "location": "Oaxaca",
+    "elevationFeet": "4989",
+    "contintent": "NA",
+    "countryCode": "MX"
+  },
+  {
+    "code": "KRB",
+    "name": "Karumba Airport",
+    "location": null,
+    "elevationFeet": "5",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "SRT",
+    "name": "Soroti Airport",
+    "location": "Soroti",
+    "elevationFeet": "3697",
+    "contintent": "AF",
+    "countryCode": "UG"
+  },
+  {
+    "code": "GFO",
+    "name": "Bartica A Airport",
+    "location": "Bartica",
+    "elevationFeet": "3",
+    "contintent": "SA",
+    "countryCode": "GY"
+  },
+  {
+    "code": "KUY",
+    "name": "Kamusi Airport",
+    "location": "Kamusi",
+    "elevationFeet": "97",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "AHT",
+    "name": "Amchitka Army Airfield",
+    "location": "Amchitka Island",
+    "elevationFeet": "215",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "YRL",
+    "name": "Red Lake Airport",
+    "location": "Red Lake",
+    "elevationFeet": "1265",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "BEW",
+    "name": "Beira Airport",
+    "location": "Beira",
+    "elevationFeet": "33",
+    "contintent": "AF",
+    "countryCode": "MZ"
+  },
+  {
+    "code": "NHZ",
+    "name": "Brunswick Executive Airport",
+    "location": "Brunswick",
+    "elevationFeet": "72",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "YLI",
+    "name": "Ylivieska Airfield",
+    "location": null,
+    "elevationFeet": "252",
+    "contintent": "EU",
+    "countryCode": "FI"
+  },
+  {
+    "code": "ABJ",
+    "name": "Port Bouet Airport",
+    "location": "Abidjan",
+    "elevationFeet": "21",
+    "contintent": "AF",
+    "countryCode": "CI"
+  },
+  {
+    "code": "MJL",
+    "name": "Mouilla Ville Airport",
+    "location": "Mouila",
+    "elevationFeet": "295",
+    "contintent": "AF",
+    "countryCode": "GA"
+  },
+  {
+    "code": "TKF",
+    "name": "Truckee Tahoe Airport",
+    "location": "Truckee",
+    "elevationFeet": "5900",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "YCH",
+    "name": "Miramichi Airport",
+    "location": "Miramichi",
+    "elevationFeet": "108",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "GDE",
+    "name": "Gode Airport",
+    "location": "Gode",
+    "elevationFeet": "834",
+    "contintent": "AF",
+    "countryCode": "ET"
+  },
+  {
+    "code": "MWX",
+    "name": "Muan International Airport",
+    "location": "Piseo-ri (Muan)",
+    "elevationFeet": "35",
+    "contintent": "AS",
+    "countryCode": "KR"
+  },
+  {
+    "code": "FEP",
+    "name": "Albertus Airport",
+    "location": "Freeport",
+    "elevationFeet": "859",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "IMQ",
+    "name": "Maku National Airport",
+    "location": "Showt",
+    "elevationFeet": null,
+    "contintent": "AS",
+    "countryCode": "IR"
+  },
+  {
+    "code": "KDY",
+    "name": "Typliy Klyuch Airport",
+    "location": "Khandyga",
+    "elevationFeet": "925",
+    "contintent": "EU",
+    "countryCode": "RU"
+  },
+  {
+    "code": "EKT",
+    "name": "Eskilstuna Airport",
+    "location": "Eskilstuna",
+    "elevationFeet": "139",
+    "contintent": "EU",
+    "countryCode": "SE"
+  },
+  {
+    "code": "LXN",
+    "name": "Jim Kelly Field",
+    "location": "Lexington",
+    "elevationFeet": "2413",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "LSF",
+    "name": "Lawson Army Air Field (Fort Benning)",
+    "location": "Fort Benning(Columbus)",
+    "elevationFeet": "232",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BQD",
+    "name": "Búðardalur Airport",
+    "location": "Búðardalur",
+    "elevationFeet": "131",
+    "contintent": "EU",
+    "countryCode": "IS"
+  },
+  {
+    "code": "FOK",
+    "name": "Francis S Gabreski Airport",
+    "location": "Westhampton Beach",
+    "elevationFeet": "67",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "ISQ",
+    "name": "Schoolcraft County Airport",
+    "location": "Manistique",
+    "elevationFeet": "684",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MSI",
+    "name": "Masalembo Airport",
+    "location": "Masalembo Island",
+    "elevationFeet": "30",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "CJT",
+    "name": "San Antonio Copalar Airport",
+    "location": "Comitán",
+    "elevationFeet": "5161",
+    "contintent": "NA",
+    "countryCode": "MX"
+  },
+  {
+    "code": "SOV",
+    "name": "Seldovia Airport",
+    "location": "Seldovia",
+    "elevationFeet": "29",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "IMG",
+    "name": "Inhaminga Airport",
+    "location": "Inhaminga",
+    "elevationFeet": "1072",
+    "contintent": "AF",
+    "countryCode": "MZ"
+  },
+  {
+    "code": "HBT",
+    "name": "Hambantota Seaplane Base",
+    "location": "Hambantota",
+    "elevationFeet": "0",
+    "contintent": "AS",
+    "countryCode": "LK"
+  },
+  {
+    "code": "ORN",
+    "name": "Es Senia Airport",
+    "location": "Oran",
+    "elevationFeet": "295",
+    "contintent": "AF",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "NBS",
+    "name": "Changbaishan Airport",
+    "location": "Baishan",
+    "elevationFeet": "2874",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "MXX",
+    "name": "Mora Airport",
+    "location": "Mora",
+    "elevationFeet": "634",
+    "contintent": "EU",
+    "countryCode": "SE"
+  },
+  {
+    "code": "SCD",
+    "name": "Sulaco Airport",
+    "location": "Sulaco",
+    "elevationFeet": "400",
+    "contintent": "NA",
+    "countryCode": "HN"
+  },
+  {
+    "code": "UKX",
+    "name": "Ust-Kut Airport",
+    "location": "Ust-Kut",
+    "elevationFeet": "2188",
+    "contintent": "AS",
+    "countryCode": "RU"
+  },
+  {
+    "code": "VLG",
+    "name": "Villa Gesell Airport",
+    "location": "Villa Gesell",
+    "elevationFeet": "32",
+    "contintent": "SA",
+    "countryCode": "AR"
+  },
+  {
+    "code": "OLQ",
+    "name": "Olsobip Airport",
+    "location": "Olsobip",
+    "elevationFeet": "1500",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "SFA",
+    "name": "Sfax Thyna International Airport",
+    "location": "Sfax",
+    "elevationFeet": "85",
+    "contintent": "AF",
+    "countryCode": "TN"
+  },
+  {
+    "code": "KCK",
+    "name": "Kirensk Airport",
+    "location": "Kirensk",
+    "elevationFeet": "840",
+    "contintent": "AS",
+    "countryCode": "RU"
+  },
+  {
+    "code": "AZR",
+    "name": "Touat Cheikh Sidi Mohamed Belkebir Airport",
+    "location": null,
+    "elevationFeet": "919",
+    "contintent": "AF",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "SIH",
+    "name": "Silgadi Doti Airport",
+    "location": "Silgadi Doti",
+    "elevationFeet": "2100",
+    "contintent": "AS",
+    "countryCode": "NP"
+  },
+  {
+    "code": "LLI",
+    "name": "Lalibella Airport",
+    "location": "Lalibela",
+    "elevationFeet": "6506",
+    "contintent": "AF",
+    "countryCode": "ET"
+  },
+  {
+    "code": "PML",
+    "name": "Port Moller Airport",
+    "location": "Cold Bay",
+    "elevationFeet": "20",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "FAO",
+    "name": "Faro Airport",
+    "location": "Faro",
+    "elevationFeet": "24",
+    "contintent": "EU",
+    "countryCode": "PT"
+  },
+  {
+    "code": "WHS",
+    "name": "Whalsay Airport",
+    "location": "Whalsay",
+    "elevationFeet": "100",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "LAM",
+    "name": "Los Alamos Airport",
+    "location": "Los Alamos",
+    "elevationFeet": "7171",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "YWS",
+    "name": "Whistler/Green Lake Water Aerodrome",
+    "location": "Whistler",
+    "elevationFeet": "2100",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "KHU",
+    "name": "Kakhnovka Airfield",
+    "location": "Kremenchuk",
+    "elevationFeet": "266",
+    "contintent": "EU",
+    "countryCode": "UA"
+  },
+  {
+    "code": "MXK",
+    "name": "Mindik Airport",
+    "location": "Mindik",
+    "elevationFeet": "4200",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PTX",
+    "name": "Pitalito Airport",
+    "location": "Pitalito",
+    "elevationFeet": "4212",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "EIE",
+    "name": "Yeniseysk Airport",
+    "location": "Yeniseysk",
+    "elevationFeet": "253",
+    "contintent": "AS",
+    "countryCode": "RU"
+  },
+  {
+    "code": "YBY",
+    "name": "Bonnyville Airport",
+    "location": "Bonnyville",
+    "elevationFeet": "1836",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "STI",
+    "name": "Cibao International Airport",
+    "location": "Santiago",
+    "elevationFeet": "565",
+    "contintent": "NA",
+    "countryCode": "DO"
+  },
+  {
+    "code": "IIL",
+    "name": "Ilam Airport",
+    "location": "Ilam",
+    "elevationFeet": "4404",
+    "contintent": "AS",
+    "countryCode": "IR"
+  },
+  {
+    "code": "MPT",
+    "name": "Maliana airport",
+    "location": "Maliana-Alor Island",
+    "elevationFeet": "957",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "SFX",
+    "name": "Macagua Airport",
+    "location": "Ciudad Guayana",
+    "elevationFeet": "231",
+    "contintent": "SA",
+    "countryCode": "VE"
+  },
+  {
+    "code": "SGL",
+    "name": "Danilo Atienza Air Base",
+    "location": "Cavite",
+    "elevationFeet": null,
+    "contintent": "AS",
+    "countryCode": "PH"
+  },
+  {
+    "code": "ANZ",
+    "name": "Angus Downs Airport",
+    "location": "Angus Downs Station",
+    "elevationFeet": "1724",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "CVM",
+    "name": "General Pedro Jose Mendez International Airport",
+    "location": "Ciudad Victoria",
+    "elevationFeet": "761",
+    "contintent": "NA",
+    "countryCode": "MX"
+  },
+  {
+    "code": "SLP",
+    "name": "Ponciano Arriaga International Airport",
+    "location": "San Luis Potosí",
+    "elevationFeet": "6035",
+    "contintent": "NA",
+    "countryCode": "MX"
+  },
+  {
+    "code": "PSG",
+    "name": "Petersburg James A Johnson Airport",
+    "location": "Petersburg",
+    "elevationFeet": "111",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "WIN",
+    "name": "Winton Airport",
+    "location": null,
+    "elevationFeet": "638",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "BOF",
+    "name": "Bolling Air Force Base",
+    "location": "Washington",
+    "elevationFeet": "20",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "LSA",
+    "name": "Losuia Airport",
+    "location": "Losuia",
+    "elevationFeet": "27",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "KIE",
+    "name": "Aropa Airport",
+    "location": "Kieta",
+    "elevationFeet": "20",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "QIG",
+    "name": "Iguatu Airport",
+    "location": "Iguatu",
+    "elevationFeet": "699",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "YFJ",
+    "name": "Wekweètì Airport",
+    "location": "Wekweètì",
+    "elevationFeet": "1208",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "YHT",
+    "name": "Haines Junction Airport",
+    "location": "Haines Junction",
+    "elevationFeet": "2150",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "IXN",
+    "name": "Khowai Airport",
+    "location": "Khowai",
+    "elevationFeet": "95",
+    "contintent": "AS",
+    "countryCode": "IN"
+  },
+  {
+    "code": "SFC",
+    "name": "St-François Airport",
+    "location": "St-François",
+    "elevationFeet": "10",
+    "contintent": "NA",
+    "countryCode": "GP"
+  },
+  {
+    "code": "UAE",
+    "name": "Mount Aue Airport",
+    "location": null,
+    "elevationFeet": "4250",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "KDH",
+    "name": "Kandahar Airport",
+    "location": null,
+    "elevationFeet": "3337",
+    "contintent": "AS",
+    "countryCode": "AF"
+  },
+  {
+    "code": "WEP",
+    "name": "Weam Airport",
+    "location": "Weam",
+    "elevationFeet": "50",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "GOQ",
+    "name": "Golmud Airport",
+    "location": "Golmud",
+    "elevationFeet": "9334",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "PGO",
+    "name": "Stevens Field",
+    "location": "Pagosa Springs",
+    "elevationFeet": "7664",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "OMR",
+    "name": "Oradea International Airport",
+    "location": "Oradea",
+    "elevationFeet": "465",
+    "contintent": "EU",
+    "countryCode": "RO"
+  },
+  {
+    "code": "SGQ",
+    "name": "Sanggata/Sangkimah Airport",
+    "location": "Sanggata/Sangkimah",
+    "elevationFeet": "60",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "FRQ",
+    "name": "Feramin Airport",
+    "location": "Feramin",
+    "elevationFeet": "4655",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "CCH",
+    "name": "Chile Chico Airport",
+    "location": "Chile Chico",
+    "elevationFeet": "1070",
+    "contintent": "SA",
+    "countryCode": "CL"
+  },
+  {
+    "code": "HRY",
+    "name": "Henbury Airport",
+    "location": null,
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "VME",
+    "name": "Villa Reynolds Airport",
+    "location": "Villa Mercedes",
+    "elevationFeet": "1591",
+    "contintent": "SA",
+    "countryCode": "AR"
+  },
+  {
+    "code": "GUA",
+    "name": "La Aurora Airport",
+    "location": "Guatemala City",
+    "elevationFeet": "4952",
+    "contintent": "NA",
+    "countryCode": "GT"
+  },
+  {
+    "code": "RSJ",
+    "name": "Rosario Seaplane Base",
+    "location": "Rosario",
+    "elevationFeet": null,
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "OYG",
+    "name": "Moyo Airport",
+    "location": "Moyo",
+    "elevationFeet": "3250",
+    "contintent": "AF",
+    "countryCode": "UG"
+  },
+  {
+    "code": "DIE",
+    "name": "Arrachart Airport",
+    "location": null,
+    "elevationFeet": "374",
+    "contintent": "AF",
+    "countryCode": "MG"
+  },
+  {
+    "code": "MDX",
+    "name": "Mercedes Airport",
+    "location": "Mercedes",
+    "elevationFeet": "358",
+    "contintent": "SA",
+    "countryCode": "AR"
+  },
+  {
+    "code": "IIL",
+    "name": "Ilam Airport",
+    "location": "Ilam",
+    "elevationFeet": "4404",
+    "contintent": "AS",
+    "countryCode": "IR"
+  },
+  {
+    "code": "MOG",
+    "name": "Mong Hsat Airport",
+    "location": "Mong Hsat",
+    "elevationFeet": "1875",
+    "contintent": "AS",
+    "countryCode": "MM"
+  },
+  {
+    "code": "URG",
+    "name": "Rubem Berta Airport",
+    "location": "Uruguaiana",
+    "elevationFeet": "256",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "BCR",
+    "name": "Novo Campo Airport",
+    "location": "Boca do Acre",
+    "elevationFeet": "394",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "BAV",
+    "name": "Baotou Airport",
+    "location": "Baotou",
+    "elevationFeet": "3321",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "PKK",
+    "name": "Pakhokku Airport",
+    "location": "Pakhokku",
+    "elevationFeet": "151",
+    "contintent": "AS",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MFV",
+    "name": "Accomack County Airport",
+    "location": "Melfa",
+    "elevationFeet": "47",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "WAG",
+    "name": "Wanganui Airport",
+    "location": "Wanganui",
+    "elevationFeet": "27",
+    "contintent": "OC",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "GOC",
+    "name": "Gora Airstrip",
+    "location": "Gora",
+    "elevationFeet": "2497",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "FAC",
+    "name": "Faaite Airport",
+    "location": null,
+    "elevationFeet": "7",
+    "contintent": "OC",
+    "countryCode": "PF"
+  },
+  {
+    "code": "TEK",
+    "name": "Tatitlek Airport",
+    "location": "Tatitlek",
+    "elevationFeet": "62",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MUR",
+    "name": "Marudi Airport",
+    "location": "Marudi",
+    "elevationFeet": "103",
+    "contintent": "AS",
+    "countryCode": "MY"
+  },
+  {
+    "code": "ELE",
+    "name": "EL Real Airport",
+    "location": "El Real de Santa María",
+    "elevationFeet": "65",
+    "contintent": "NA",
+    "countryCode": "PA"
+  },
+  {
+    "code": "IGM",
+    "name": "Kingman Airport",
+    "location": "Kingman",
+    "elevationFeet": "3449",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TLB",
+    "name": "Tarbela Dam Airport",
+    "location": "Tarbela",
+    "elevationFeet": "1114",
+    "contintent": "AS",
+    "countryCode": "PK"
+  },
+  {
+    "code": "CXI",
+    "name": "Cassidy International Airport",
+    "location": "Banana",
+    "elevationFeet": "5",
+    "contintent": "OC",
+    "countryCode": "KI"
+  },
+  {
+    "code": "MYZ",
+    "name": "Monkey Bay Airport",
+    "location": "Monkey Bay",
+    "elevationFeet": "1580",
+    "contintent": "AF",
+    "countryCode": "MW"
+  },
+  {
+    "code": "OCM",
+    "name": "Boolgeeda",
+    "location": null,
+    "elevationFeet": "1871",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "FDR",
+    "name": "Frederick Regional Airport",
+    "location": "Frederick",
+    "elevationFeet": "1258",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "VSG",
+    "name": "Luhansk International Airport",
+    "location": "Luhansk",
+    "elevationFeet": "636",
+    "contintent": "EU",
+    "countryCode": "UA"
+  },
+  {
+    "code": "EDN",
+    "name": "Yedinka Airport",
+    "location": "Yedinka",
+    "elevationFeet": "98",
+    "contintent": "EU",
+    "countryCode": "RU"
+  },
+  {
+    "code": "YNE",
+    "name": "Norway House Airport",
+    "location": "Norway House",
+    "elevationFeet": "734",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "SKD",
+    "name": "Samarkand Airport",
+    "location": "Samarkand",
+    "elevationFeet": "2224",
+    "contintent": "AS",
+    "countryCode": "UZ"
+  },
+  {
+    "code": "NZC",
+    "name": "Maria Reiche Neuman Airport",
+    "location": "Nazca",
+    "elevationFeet": "1860",
+    "contintent": "SA",
+    "countryCode": "PE"
+  },
+  {
+    "code": "SFM",
+    "name": "Sanford Seacoast Regional Airport",
+    "location": "Sanford",
+    "elevationFeet": "244",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CRL",
+    "name": "Brussels South Charleroi Airport",
+    "location": "Brussels",
+    "elevationFeet": "614",
+    "contintent": "EU",
+    "countryCode": "BE"
+  },
+  {
+    "code": "LBP",
+    "name": "Long Banga Airport",
+    "location": "Long Banga",
+    "elevationFeet": "750",
+    "contintent": "AS",
+    "countryCode": "MY"
+  },
+  {
+    "code": "YDP",
+    "name": "Nain Airport",
+    "location": "Nain",
+    "elevationFeet": "22",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "BDX",
+    "name": "Broadus Airport",
+    "location": "Broadus",
+    "elevationFeet": "3280",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TNK",
+    "name": "Tununak Airport",
+    "location": "Tununak",
+    "elevationFeet": "14",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "JAE",
+    "name": "Shumba Airport",
+    "location": "Jaén",
+    "elevationFeet": "2477",
+    "contintent": "SA",
+    "countryCode": "PE"
+  },
+  {
+    "code": "SOC",
+    "name": "Adi Sumarmo Wiryokusumo Airport",
+    "location": "Sukarata(Solo)-Java Island",
+    "elevationFeet": "421",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "NAH",
+    "name": "Naha Airport",
+    "location": "Tahuna-Sangihe Island",
+    "elevationFeet": "16",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "GET",
+    "name": "Geraldton Airport",
+    "location": "Geraldton",
+    "elevationFeet": "121",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "ADF",
+    "name": "Adıyaman Airport",
+    "location": "Adıyaman",
+    "elevationFeet": "2216",
+    "contintent": "AS",
+    "countryCode": "TR"
+  },
+  {
+    "code": "IRP",
+    "name": "Matari Airport",
+    "location": null,
+    "elevationFeet": "2438",
+    "contintent": "AF",
+    "countryCode": "CD"
+  },
+  {
+    "code": "AEP",
+    "name": "Jorge Newbery Airpark",
+    "location": "Buenos Aires",
+    "elevationFeet": "18",
+    "contintent": "SA",
+    "countryCode": "AR"
+  },
+  {
+    "code": "KHD",
+    "name": "Khoram Abad Airport",
+    "location": null,
+    "elevationFeet": "3782",
+    "contintent": "AS",
+    "countryCode": "IR"
+  },
+  {
+    "code": "BFQ",
+    "name": "Bahia Piña Airport",
+    "location": "Bahia Piña",
+    "elevationFeet": "14",
+    "contintent": "NA",
+    "countryCode": "PA"
+  },
+  {
+    "code": "NLN",
+    "name": "Kneeland Airport",
+    "location": "Eureka",
+    "elevationFeet": "2737",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "DSE",
+    "name": "Combolcha Airport",
+    "location": "Dessie",
+    "elevationFeet": "6117",
+    "contintent": "AF",
+    "countryCode": "ET"
+  },
+  {
+    "code": "ATS",
+    "name": "Artesia Municipal Airport",
+    "location": "Artesia",
+    "elevationFeet": "3541",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "YLI",
+    "name": "Ylivieska Airfield",
+    "location": null,
+    "elevationFeet": "252",
+    "contintent": "EU",
+    "countryCode": "FI"
+  },
+  {
+    "code": "MUO",
+    "name": "Mountain Home Air Force Base",
+    "location": "Mountain Home",
+    "elevationFeet": "2996",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "GNA",
+    "name": "Hrodna Airport",
+    "location": "Hrodna",
+    "elevationFeet": "443",
+    "contintent": "EU",
+    "countryCode": "BY"
+  },
+  {
+    "code": "UBS",
+    "name": "Columbus Lowndes County Airport",
+    "location": "Columbus",
+    "elevationFeet": "188",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KDN",
+    "name": "Ndende Airport",
+    "location": "Ndende",
+    "elevationFeet": "417",
+    "contintent": "AF",
+    "countryCode": "GA"
+  },
+  {
+    "code": "PIT",
+    "name": "Pittsburgh International Airport",
+    "location": "Pittsburgh",
+    "elevationFeet": "1203",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SQE",
+    "name": "San Luis De Palenque Airport",
+    "location": "San Luis De Palenque",
+    "elevationFeet": "551",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "EKD",
+    "name": "Elkedra Airport",
+    "location": null,
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "CLK",
+    "name": "Clinton Regional Airport",
+    "location": "Clinton",
+    "elevationFeet": "1616",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BYN",
+    "name": "Bayankhongor Airport",
+    "location": "Bayankhongor",
+    "elevationFeet": "6085",
+    "contintent": "AS",
+    "countryCode": "MN"
+  },
+  {
+    "code": "MOB",
+    "name": "Mobile Regional Airport",
+    "location": "Mobile",
+    "elevationFeet": "219",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KEH",
+    "name": "Kenmore Air Harbor Inc Seaplane Base",
+    "location": "Kenmore",
+    "elevationFeet": "14",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "HAQ",
+    "name": "Hanimaadhoo Airport",
+    "location": "Haa Dhaalu Atoll",
+    "elevationFeet": "4",
+    "contintent": "AS",
+    "countryCode": "MV"
+  },
+  {
+    "code": "LAU",
+    "name": "Manda Airstrip",
+    "location": "Lamu",
+    "elevationFeet": "20",
+    "contintent": "AF",
+    "countryCode": "KE"
+  },
+  {
+    "code": "SWY",
+    "name": "Sitiawan Airport",
+    "location": "Sitiawan",
+    "elevationFeet": "25",
+    "contintent": "AS",
+    "countryCode": "MY"
+  },
+  {
+    "code": "LSE",
+    "name": "La Crosse Municipal Airport",
+    "location": "La Crosse",
+    "elevationFeet": "655",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "YPM",
+    "name": "Pikangikum Airport",
+    "location": "Pikangikum",
+    "elevationFeet": "1114",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "JGA",
+    "name": "Jamnagar Airport",
+    "location": "Jamnagar",
+    "elevationFeet": "69",
+    "contintent": "AS",
+    "countryCode": "IN"
+  },
+  {
+    "code": "CXN",
+    "name": "Candala Airport",
+    "location": "Candala",
+    "elevationFeet": "30",
+    "contintent": "AF",
+    "countryCode": "SO"
+  },
+  {
+    "code": "QGU",
+    "name": "Gifu Airport",
+    "location": "Gifu",
+    "elevationFeet": "128",
+    "contintent": "AS",
+    "countryCode": "JP"
+  },
+  {
+    "code": "WMA",
+    "name": "Mandritsara Airport",
+    "location": "Mandritsara",
+    "elevationFeet": "1007",
+    "contintent": "AF",
+    "countryCode": "MG"
+  },
+  {
+    "code": "AYP",
+    "name": "Coronel FAP Alfredo Mendivil Duarte Airport",
+    "location": "Ayacucho",
+    "elevationFeet": "8917",
+    "contintent": "SA",
+    "countryCode": "PE"
+  },
+  {
+    "code": "LAZ",
+    "name": "Bom Jesus da Lapa Airport",
+    "location": "Bom Jesus Da Lapa",
+    "elevationFeet": "1454",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "AOA",
+    "name": "Aroa Airport",
+    "location": "Agevairu",
+    "elevationFeet": "20",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "SAP",
+    "name": "Ramón Villeda Morales International Airport",
+    "location": "San Pedro Sula",
+    "elevationFeet": "91",
+    "contintent": "NA",
+    "countryCode": "HN"
+  },
+  {
+    "code": "MRP",
+    "name": "Marla Airport",
+    "location": null,
+    "elevationFeet": "328",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "ELY",
+    "name": "Ely Airport Yelland Field",
+    "location": "Ely",
+    "elevationFeet": "6259",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MJZ",
+    "name": "Mirny Airport",
+    "location": "Mirny",
+    "elevationFeet": "1156",
+    "contintent": "AS",
+    "countryCode": "RU"
+  },
+  {
+    "code": "KUS",
+    "name": "Kulusuk Airport",
+    "location": "Kulusuk",
+    "elevationFeet": "117",
+    "contintent": "NA",
+    "countryCode": "GL"
+  },
+  {
+    "code": "TCG",
+    "name": "Tacheng Airport",
+    "location": "Tacheng",
+    "elevationFeet": null,
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "OGN",
+    "name": "Yonaguni Airport",
+    "location": null,
+    "elevationFeet": "70",
+    "contintent": "AS",
+    "countryCode": "JP"
+  },
+  {
+    "code": "XML",
+    "name": "Minlaton Airport",
+    "location": null,
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "LCF",
+    "name": "Las Vegas Airport",
+    "location": "Rio Dulce",
+    "elevationFeet": "28",
+    "contintent": "NA",
+    "countryCode": "GT"
+  },
+  {
+    "code": "QOA",
+    "name": "Mococa Airport",
+    "location": "Mococa",
+    "elevationFeet": "2116",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "BAF",
+    "name": "Westfield-Barnes Regional Airport",
+    "location": "Westfield/Springfield",
+    "elevationFeet": "271",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CKB",
+    "name": "North Central West Virginia Airport",
+    "location": "Clarksburg",
+    "elevationFeet": "1217",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "QWG",
+    "name": "Wilgrove Air Park",
+    "location": "Charlotte",
+    "elevationFeet": "799",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "0",
+    "name": "Jaboticabal Airport",
+    "location": "Jaboticabal",
+    "elevationFeet": "2024",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "TTB",
+    "name": "Tortolì Airport",
+    "location": "Arbatax",
+    "elevationFeet": "23",
+    "contintent": "EU",
+    "countryCode": "IT"
+  },
+  {
+    "code": "ARP",
+    "name": "Aragip Airport",
+    "location": null,
+    "elevationFeet": "1750",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PXH",
+    "name": "Prominent Hill Airport",
+    "location": "OZ Minerals Prominent Hill Mine",
+    "elevationFeet": "745",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "NDS",
+    "name": "Sandstone Airport",
+    "location": "Sandstone",
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "GDD",
+    "name": "Gordon Downs Airport",
+    "location": "Gordon Downs",
+    "elevationFeet": "800",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "MHA",
+    "name": "Mahdia Airport",
+    "location": "Mahdia",
+    "elevationFeet": "300",
+    "contintent": "SA",
+    "countryCode": "GY"
+  },
+  {
+    "code": "SBM",
+    "name": "Sheboygan County Memorial Airport",
+    "location": "Sheboygan",
+    "elevationFeet": "755",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "DPU",
+    "name": "Dumpu Airport",
+    "location": "Dumpu",
+    "elevationFeet": "870",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "NCA",
+    "name": "North Caicos Airport",
+    "location": null,
+    "elevationFeet": "10",
+    "contintent": "NA",
+    "countryCode": "TC"
+  },
+  {
+    "code": "MSM",
+    "name": "Masi Manimba Airport",
+    "location": "Masi Manimba",
+    "elevationFeet": "1952",
+    "contintent": "AF",
+    "countryCode": "CD"
+  },
+  {
+    "code": "SNK",
+    "name": "Winston Field",
+    "location": "Snyder",
+    "elevationFeet": "2430",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "IMF",
+    "name": "Imphal Airport",
+    "location": "Imphal",
+    "elevationFeet": "2540",
+    "contintent": "AS",
+    "countryCode": "IN"
+  },
+  {
+    "code": "ECN",
+    "name": "Ercan International Airport",
+    "location": "Nicosia",
+    "elevationFeet": "404",
+    "contintent": "AS",
+    "countryCode": "CY"
+  },
+  {
+    "code": "DPL",
+    "name": "Dipolog Airport",
+    "location": "Dipolog City",
+    "elevationFeet": "12",
+    "contintent": "AS",
+    "countryCode": "PH"
+  },
+  {
+    "code": "MOC",
+    "name": "Mário Ribeiro Airport",
+    "location": "Montes Claros",
+    "elevationFeet": "2191",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "URU",
+    "name": "Uroubi Airport",
+    "location": "Uroubi",
+    "elevationFeet": "481",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "BRT",
+    "name": "Bathurst Island Airport",
+    "location": null,
+    "elevationFeet": "67",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "ESW",
+    "name": "Easton State Airport",
+    "location": "Easton",
+    "elevationFeet": "2226",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "GBF",
+    "name": "Negarbo(Negabo) Airport",
+    "location": "Negarbo",
+    "elevationFeet": "4500",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "FGD",
+    "name": "Fderik Airport",
+    "location": "Fderik",
+    "elevationFeet": "961",
+    "contintent": "AF",
+    "countryCode": "MR"
+  },
+  {
+    "code": "CNW",
+    "name": "TSTC Waco Airport",
+    "location": "Waco",
+    "elevationFeet": "470",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TAM",
+    "name": "General Francisco Javier Mina International Airport",
+    "location": "Tampico",
+    "elevationFeet": "80",
+    "contintent": "NA",
+    "countryCode": "MX"
+  },
+  {
+    "code": "MSL",
+    "name": "Northwest Alabama Regional Airport",
+    "location": "Muscle Shoals",
+    "elevationFeet": "551",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "GES",
+    "name": "General Santos International Airport",
+    "location": "General Santos",
+    "elevationFeet": "505",
+    "contintent": "AS",
+    "countryCode": "PH"
+  },
+  {
+    "code": "TNV",
+    "name": "Tabuaeran Island Airport",
+    "location": "Tabuaeran Island",
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "KI"
+  },
+  {
+    "code": "BGV",
+    "name": "Aeroclube de Bento Gonçalves Airport",
+    "location": "Bento Gonçalves",
+    "elevationFeet": "2209",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "BLF",
+    "name": "Mercer County Airport",
+    "location": "Bluefield",
+    "elevationFeet": "2857",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "JJN",
+    "name": "Quanzhou Jinjiang International Airport",
+    "location": "Quanzhou",
+    "elevationFeet": null,
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "PLZ",
+    "name": "Port Elizabeth Airport",
+    "location": "Port Elizabeth",
+    "elevationFeet": "226",
+    "contintent": "AF",
+    "countryCode": "ZA"
+  },
+  {
+    "code": "HEH",
+    "name": "Heho Airport",
+    "location": "Heho",
+    "elevationFeet": "3858",
+    "contintent": "AS",
+    "countryCode": "MM"
+  },
+  {
+    "code": "MLS",
+    "name": "Frank Wiley Field",
+    "location": "Miles City",
+    "elevationFeet": "2630",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "GLZ",
+    "name": "Gilze Rijen Air Base",
+    "location": "Breda",
+    "elevationFeet": "49",
+    "contintent": "EU",
+    "countryCode": "NL"
+  },
+  {
+    "code": "YTE",
+    "name": "Cape Dorset Airport",
+    "location": "Cape Dorset",
+    "elevationFeet": "164",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "QID",
+    "name": "Mélio Viana Airport",
+    "location": "Três Corações",
+    "elevationFeet": "3232",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "FAL",
+    "name": "Falcon State Airport",
+    "location": "Roma",
+    "elevationFeet": "358",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CCX",
+    "name": "Cáceres Airport",
+    "location": "Cáceres",
+    "elevationFeet": "492",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "QCU",
+    "name": "Akunaq Heliport",
+    "location": null,
+    "elevationFeet": "59",
+    "contintent": "NA",
+    "countryCode": "GL"
+  },
+  {
+    "code": "CCO",
+    "name": "Carimagua Airport",
+    "location": "Puerto López",
+    "elevationFeet": "700",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "KGL",
+    "name": "Kigali International Airport",
+    "location": "Kigali",
+    "elevationFeet": "4859",
+    "contintent": "AF",
+    "countryCode": "RW"
+  },
+  {
+    "code": "RAZ",
+    "name": "Rawalakot Airport",
+    "location": "Rawalakot",
+    "elevationFeet": "5479",
+    "contintent": "AS",
+    "countryCode": "PK"
+  },
+  {
+    "code": "PHO",
+    "name": "Point Hope Airport",
+    "location": "Point Hope",
+    "elevationFeet": "12",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SHZ",
+    "name": "Seshutes Airport",
+    "location": "Seshutes",
+    "elevationFeet": "7000",
+    "contintent": "AF",
+    "countryCode": "LS"
+  },
+  {
+    "code": "AOP",
+    "name": "Alferez FAP Alfredo Vladimir Sara Bauer Airport",
+    "location": "Andoas",
+    "elevationFeet": "728",
+    "contintent": "SA",
+    "countryCode": "PE"
+  },
+  {
+    "code": "MCZ",
+    "name": "Zumbi dos Palmares Airport",
+    "location": "Maceió",
+    "elevationFeet": "387",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "AGP",
+    "name": "Málaga Airport",
+    "location": "Málaga",
+    "elevationFeet": "53",
+    "contintent": "EU",
+    "countryCode": "ES"
+  },
+  {
+    "code": "WST",
+    "name": "Westerly State Airport",
+    "location": "Westerly",
+    "elevationFeet": "81",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BUW",
+    "name": "Betoambari Airport",
+    "location": "Bau Bau-Butung Island",
+    "elevationFeet": "164",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "HJR",
+    "name": "Khajuraho Airport",
+    "location": "Khajuraho",
+    "elevationFeet": "728",
+    "contintent": "AS",
+    "countryCode": "IN"
+  },
+  {
+    "code": "GDD",
+    "name": "Gordon Downs Airport",
+    "location": "Gordon Downs",
+    "elevationFeet": "800",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "THC",
+    "name": "Tchien Airport",
+    "location": "Tchien",
+    "elevationFeet": "790",
+    "contintent": "AF",
+    "countryCode": "LR"
+  },
+  {
+    "code": "NTR",
+    "name": "Del Norte International Airport",
+    "location": null,
+    "elevationFeet": "1476",
+    "contintent": "NA",
+    "countryCode": "MX"
+  },
+  {
+    "code": "DAY",
+    "name": "James M Cox Dayton International Airport",
+    "location": "Dayton",
+    "elevationFeet": "1009",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SLG",
+    "name": "Smith Field",
+    "location": "Siloam Springs",
+    "elevationFeet": "1191",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "LUQ",
+    "name": "Brigadier Mayor D Cesar Raul Ojeda Airport",
+    "location": "San Luis",
+    "elevationFeet": "2328",
+    "contintent": "SA",
+    "countryCode": "AR"
+  },
+  {
+    "code": "HII",
+    "name": "Lake Havasu City Airport",
+    "location": "Lake Havasu City",
+    "elevationFeet": "783",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BYC",
+    "name": "Yacuiba Airport",
+    "location": "Yacuíba",
+    "elevationFeet": "2112",
+    "contintent": "SA",
+    "countryCode": "BO"
+  },
+  {
+    "code": "DRF",
+    "name": "Drift River Airport",
+    "location": "Kenai",
+    "elevationFeet": "30",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "HGN",
+    "name": "Mae Hong Son Airport",
+    "location": null,
+    "elevationFeet": "929",
+    "contintent": "AS",
+    "countryCode": "TH"
+  },
+  {
+    "code": "EMN",
+    "name": "Néma Airport",
+    "location": "Néma",
+    "elevationFeet": "751",
+    "contintent": "AF",
+    "countryCode": "MR"
+  },
+  {
+    "code": "MPC",
+    "name": "Muko Muko Airport",
+    "location": "Muko Muko-Sumatra Island",
+    "elevationFeet": "24",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "ECV",
+    "name": "Cuatro Vientos Airport",
+    "location": "Madrid",
+    "elevationFeet": "2269",
+    "contintent": "EU",
+    "countryCode": "ES"
+  },
+  {
+    "code": "IRN",
+    "name": "Iriona Airport",
+    "location": "Iriona",
+    "elevationFeet": "8",
+    "contintent": "NA",
+    "countryCode": "HN"
+  },
+  {
+    "code": "ASJ",
+    "name": "Amami Airport",
+    "location": "Amami",
+    "elevationFeet": "27",
+    "contintent": "AS",
+    "countryCode": "JP"
+  },
+  {
+    "code": "YKN",
+    "name": "Chan Gurney Municipal Airport",
+    "location": "Yankton",
+    "elevationFeet": "1306",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "NOG",
+    "name": "Nogales International Airport",
+    "location": null,
+    "elevationFeet": "3990",
+    "contintent": "NA",
+    "countryCode": "MX"
+  },
+  {
+    "code": "TXK",
+    "name": "Texarkana Regional Webb Field",
+    "location": "Texarkana",
+    "elevationFeet": "390",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "PML",
+    "name": "Port Moller Airport",
+    "location": "Cold Bay",
+    "elevationFeet": "20",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KHS",
+    "name": "Khasab Air Base",
+    "location": "Khasab",
+    "elevationFeet": "100",
+    "contintent": "AS",
+    "countryCode": "OM"
+  },
+  {
+    "code": "GUL",
+    "name": "Goulburn Airport",
+    "location": null,
+    "elevationFeet": "2141",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "EJH",
+    "name": "Al Wajh Domestic Airport",
+    "location": "Al Wajh",
+    "elevationFeet": "66",
+    "contintent": "AS",
+    "countryCode": "SA"
+  },
+  {
+    "code": "BHU",
+    "name": "Bhavnagar Airport",
+    "location": "Bhavnagar",
+    "elevationFeet": "44",
+    "contintent": "AS",
+    "countryCode": "IN"
+  },
+  {
+    "code": "PXL",
+    "name": "Polacca Airport",
+    "location": "Polacca",
+    "elevationFeet": "5573",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "PNR",
+    "name": "Pointe Noire Airport",
+    "location": "Pointe Noire",
+    "elevationFeet": "55",
+    "contintent": "AF",
+    "countryCode": "CG"
+  },
+  {
+    "code": "HBK",
+    "name": "Holbrook Municipal Airport",
+    "location": "Holbrook",
+    "elevationFeet": "5262",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MQE",
+    "name": "Marqua Airport",
+    "location": "Marqua",
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "UAK",
+    "name": "Narsarsuaq Airport",
+    "location": "Narsarsuaq",
+    "elevationFeet": "112",
+    "contintent": "NA",
+    "countryCode": "GL"
+  },
+  {
+    "code": "PMP",
+    "name": "Pimaga Airport",
+    "location": "Pimaga",
+    "elevationFeet": "2745",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "TAZ",
+    "name": "Daşoguz Airport",
+    "location": "Daşoguz",
+    "elevationFeet": "272",
+    "contintent": "AS",
+    "countryCode": "TM"
+  },
+  {
+    "code": "EZV",
+    "name": "Berezovo Airport",
+    "location": null,
+    "elevationFeet": "98",
+    "contintent": "AS",
+    "countryCode": "RU"
+  },
+  {
+    "code": "PAF",
+    "name": "Pakuba Airfield",
+    "location": "Kabalega Falls",
+    "elevationFeet": "2365",
+    "contintent": "AF",
+    "countryCode": "UG"
+  },
+  {
+    "code": "YBK",
+    "name": "Baker Lake Airport",
+    "location": "Baker Lake",
+    "elevationFeet": "59",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "UKN",
+    "name": "Waukon Municipal Airport",
+    "location": "Waukon",
+    "elevationFeet": "1281",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "ZMH",
+    "name": "South Cariboo Region / 108 Mile Airport",
+    "location": "108 Mile",
+    "elevationFeet": "3126",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "KMB",
+    "name": "Koinambe Airport",
+    "location": "Konambe",
+    "elevationFeet": "3000",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PPV",
+    "name": "Port Protection Seaplane Base",
+    "location": "Port Protection",
+    "elevationFeet": "0",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "GVL",
+    "name": "Lee Gilmer Memorial Airport",
+    "location": "Gainesville",
+    "elevationFeet": "1276",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "NMB",
+    "name": "Daman Airport",
+    "location": null,
+    "elevationFeet": "33",
+    "contintent": "AS",
+    "countryCode": "IN"
+  },
+  {
+    "code": "CER",
+    "name": "Cherbourg-Maupertus Airport",
+    "location": "Cherbourg/Maupertus",
+    "elevationFeet": "459",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "VRC",
+    "name": "Virac Airport",
+    "location": "Virac",
+    "elevationFeet": "121",
+    "contintent": "AS",
+    "countryCode": "PH"
+  },
+  {
+    "code": "PWI",
+    "name": "Beles Airport",
+    "location": "Pawe",
+    "elevationFeet": "3695",
+    "contintent": "AF",
+    "countryCode": "ET"
+  },
+  {
+    "code": "GNZ",
+    "name": "Ghanzi Airport",
+    "location": "Ghanzi",
+    "elevationFeet": "3730",
+    "contintent": "AF",
+    "countryCode": "BW"
+  },
+  {
+    "code": "AHU",
+    "name": "Cherif Al Idrissi Airport",
+    "location": "Al Hoceima",
+    "elevationFeet": "95",
+    "contintent": "AF",
+    "countryCode": "MA"
+  },
+  {
+    "code": "WPM",
+    "name": "Wipim Airport",
+    "location": "Wipim",
+    "elevationFeet": "173",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "HTW",
+    "name": "Lawrence County Airpark",
+    "location": "Chesapeake/Huntington Wva",
+    "elevationFeet": "568",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "HUH",
+    "name": "Huahine-Fare Airport",
+    "location": "Fare",
+    "elevationFeet": "7",
+    "contintent": "OC",
+    "countryCode": "PF"
+  },
+  {
+    "code": "LIK",
+    "name": "Likiep Airport",
+    "location": "Likiep Island",
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "MH"
+  },
+  {
+    "code": "RKH",
+    "name": "Rock Hill - York County Airport",
+    "location": "Rock Hill",
+    "elevationFeet": "666",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "KHR",
+    "name": "Kharkhorin Airport",
+    "location": null,
+    "elevationFeet": "4759",
+    "contintent": "AS",
+    "countryCode": "MN"
+  },
+  {
+    "code": "STF",
+    "name": "Stephens Island Seaplane Base",
+    "location": "Stephens Island",
+    "elevationFeet": "0",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "KEO",
+    "name": "Odienne Airport",
+    "location": "Odienne",
+    "elevationFeet": "1365",
+    "contintent": "AF",
+    "countryCode": "CI"
+  },
+  {
+    "code": "AJR",
+    "name": "Arvidsjaur Airport",
+    "location": "Arvidsjaur",
+    "elevationFeet": "1245",
+    "contintent": "EU",
+    "countryCode": "SE"
+  },
+  {
+    "code": "YZY",
+    "name": "Zhangye Ganzhou Airport",
+    "location": "Zhangye",
+    "elevationFeet": "5280",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "FRA",
+    "name": "Frankfurt am Main Airport",
+    "location": "Frankfurt am Main",
+    "elevationFeet": "364",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "WLG",
+    "name": "Wellington International Airport",
+    "location": "Wellington",
+    "elevationFeet": "41",
+    "contintent": "OC",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "WPK",
+    "name": "Wrotham Park Airport",
+    "location": null,
+    "elevationFeet": "152",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "JIW",
+    "name": "Jiwani Airport",
+    "location": "Jiwani",
+    "elevationFeet": "186",
+    "contintent": "AS",
+    "countryCode": "PK"
+  },
+  {
+    "code": "CSB",
+    "name": "Caransebeş Airport",
+    "location": "Caransebeş",
+    "elevationFeet": "866",
+    "contintent": "EU",
+    "countryCode": "RO"
+  },
+  {
+    "code": "RTI",
+    "name": "Roti Airport",
+    "location": "Roti-Rote Island",
+    "elevationFeet": "65",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "DEI",
+    "name": "Denis Island Airport",
+    "location": "Denis Island",
+    "elevationFeet": "10",
+    "contintent": "AF",
+    "countryCode": "SC"
+  },
+  {
+    "code": "EPL",
+    "name": "Épinal-Mirecourt Airport",
+    "location": "Épinal/Mirecourt",
+    "elevationFeet": "1084",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "XOG",
+    "name": "Orange-Caritat (BA 115) Air Base",
+    "location": "Orange/Caritat",
+    "elevationFeet": "197",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "YXD",
+    "name": "Edmonton City Centre (Blatchford Field) Airport",
+    "location": "Edmonton",
+    "elevationFeet": "2202",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "WIE",
+    "name": "Wiesbaden Army Airfield",
+    "location": "Wiesbaden",
+    "elevationFeet": "461",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "HPH",
+    "name": "Cat Bi International Airport",
+    "location": "Haiphong",
+    "elevationFeet": "6",
+    "contintent": "AS",
+    "countryCode": "VN"
+  },
+  {
+    "code": "SAK",
+    "name": "Sauðárkrókur Airport",
+    "location": "Sauðárkrókur",
+    "elevationFeet": "8",
+    "contintent": "EU",
+    "countryCode": "IS"
+  },
+  {
+    "code": "MDR",
+    "name": "Medfra Airport",
+    "location": "Medfra",
+    "elevationFeet": "435",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "HUA",
+    "name": "Redstone Army Air Field",
+    "location": "Redstone Arsnl Huntsville",
+    "elevationFeet": "684",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TNV",
+    "name": "Tabuaeran Island Airport",
+    "location": "Tabuaeran Island",
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "KI"
+  },
+  {
+    "code": "OTJ",
+    "name": "Otjiwarongo Airport",
+    "location": "Otjiwarongo",
+    "elevationFeet": "4859",
+    "contintent": "AF",
+    "countryCode": "NA"
+  },
+  {
+    "code": "YTD",
+    "name": "Thicket Portage Airport",
+    "location": "Thicket Portage",
+    "elevationFeet": "678",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "ZSS",
+    "name": "Sassandra Airport",
+    "location": "Sassandra",
+    "elevationFeet": "203",
+    "contintent": "AF",
+    "countryCode": "CI"
+  },
+  {
+    "code": "KRG",
+    "name": "Karasabai Airport",
+    "location": "Karasabai",
+    "elevationFeet": "731",
+    "contintent": "SA",
+    "countryCode": "GY"
+  },
+  {
+    "code": "REP",
+    "name": "Siem Reap International Airport",
+    "location": "Siem Reap",
+    "elevationFeet": "60",
+    "contintent": "AS",
+    "countryCode": "KH"
+  },
+  {
+    "code": "DVL",
+    "name": "Devils Lake Regional Airport",
+    "location": "Devils Lake",
+    "elevationFeet": "1456",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SKX",
+    "name": "Saransk Airport",
+    "location": "Saransk",
+    "elevationFeet": "676",
+    "contintent": "EU",
+    "countryCode": "RU"
+  },
+  {
+    "code": "CSR",
+    "name": "Casuarito Airport",
+    "location": "Casuarito",
+    "elevationFeet": "245",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "PGA",
+    "name": "Page Municipal Airport",
+    "location": "Page",
+    "elevationFeet": "4316",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "LES",
+    "name": "Lesobeng Airport",
+    "location": "Lesobeng",
+    "elevationFeet": "7130",
+    "contintent": "AF",
+    "countryCode": "LS"
+  },
+  {
+    "code": "AYH",
+    "name": "RAF Alconbury",
+    "location": "Huntingdon",
+    "elevationFeet": "157",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "NYR",
+    "name": "Nyurba Airport",
+    "location": "Nyurba",
+    "elevationFeet": "394",
+    "contintent": "EU",
+    "countryCode": "RU"
+  },
+  {
+    "code": "XCZ",
+    "name": "Charleville-Mézières Airport",
+    "location": "Charleville-Mézières",
+    "elevationFeet": "492",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "AUP",
+    "name": "Agaun Airport",
+    "location": null,
+    "elevationFeet": "3200",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "PWN",
+    "name": "Pitts Town Airport",
+    "location": "Pitts Town",
+    "elevationFeet": null,
+    "contintent": "NA",
+    "countryCode": "BS"
+  },
+  {
+    "code": "QLA",
+    "name": "Lasham Airport",
+    "location": "Lasham",
+    "elevationFeet": "618",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "TSF",
+    "name": "Treviso-Sant'Angelo Airport",
+    "location": "Treviso",
+    "elevationFeet": "59",
+    "contintent": "EU",
+    "countryCode": "IT"
+  },
+  {
+    "code": "OUS",
+    "name": "Ourinhos Airport",
+    "location": "Ourinhos",
+    "elevationFeet": "1532",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "FUN",
+    "name": "Funafuti International Airport",
+    "location": "Funafuti",
+    "elevationFeet": "9",
+    "contintent": "OC",
+    "countryCode": "TV"
+  },
+  {
+    "code": "KOW",
+    "name": "Ganzhou Airport",
+    "location": "Ganzhou",
+    "elevationFeet": "387",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "MTA",
+    "name": "Matamata Glider Airport",
+    "location": null,
+    "elevationFeet": "180",
+    "contintent": "OC",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "JNA",
+    "name": "Januária Airport",
+    "location": "Januária",
+    "elevationFeet": "1575",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "TNZ",
+    "name": "Tosontsengel Airport",
+    "location": "Tosontsengel",
+    "elevationFeet": "5610",
+    "contintent": "AS",
+    "countryCode": "MN"
+  },
+  {
+    "code": "BUS",
+    "name": "Batumi International Airport",
+    "location": "Batumi",
+    "elevationFeet": "105",
+    "contintent": "AS",
+    "countryCode": "GE"
+  },
+  {
+    "code": "SJZ",
+    "name": "São Jorge Airport",
+    "location": "Velas",
+    "elevationFeet": "311",
+    "contintent": "EU",
+    "countryCode": "PT"
+  },
+  {
+    "code": "LXN",
+    "name": "Jim Kelly Field",
+    "location": "Lexington",
+    "elevationFeet": "2413",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "POS",
+    "name": "Piarco International Airport",
+    "location": "Port of Spain",
+    "elevationFeet": "58",
+    "contintent": "NA",
+    "countryCode": "TT"
+  },
+  {
+    "code": "BBD",
+    "name": "Curtis Field",
+    "location": "Brady",
+    "elevationFeet": "1827",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "EVM",
+    "name": "Eveleth Virginia Municipal Airport",
+    "location": "Eveleth",
+    "elevationFeet": "1379",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "EOI",
+    "name": "Eday Airport",
+    "location": "Eday",
+    "elevationFeet": "10",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "TOM",
+    "name": "Timbuktu Airport",
+    "location": "Timbuktu",
+    "elevationFeet": "863",
+    "contintent": "AF",
+    "countryCode": "ML"
+  },
+  {
+    "code": "KAS",
+    "name": "Karasburg Airport",
+    "location": "Karasburg",
+    "elevationFeet": "3275",
+    "contintent": "AF",
+    "countryCode": "NA"
+  },
+  {
+    "code": "WUG",
+    "name": "Wau Airport",
+    "location": "Wau",
+    "elevationFeet": "3600",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "CUE",
+    "name": "Mariscal Lamar Airport",
+    "location": "Cuenca",
+    "elevationFeet": "8306",
+    "contintent": "SA",
+    "countryCode": "EC"
+  },
+  {
+    "code": "RKI",
+    "name": "Rokot Airport",
+    "location": "Rokot-Sumatra Island",
+    "elevationFeet": "4975",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "FAO",
+    "name": "Faro Airport",
+    "location": "Faro",
+    "elevationFeet": "24",
+    "contintent": "EU",
+    "countryCode": "PT"
+  },
+  {
+    "code": "TSM",
+    "name": "Taos Regional Airport",
+    "location": "Taos",
+    "elevationFeet": "7095",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "WHK",
+    "name": "Whakatane Airport",
+    "location": null,
+    "elevationFeet": "20",
+    "contintent": "OC",
+    "countryCode": "NZ"
+  },
+  {
+    "code": "FEA",
+    "name": "Fetlar Airport",
+    "location": "Fetlar Island",
+    "elevationFeet": "263",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "OSR",
+    "name": "Ostrava Leos Janáček Airport",
+    "location": "Ostrava",
+    "elevationFeet": "844",
+    "contintent": "EU",
+    "countryCode": "CZ"
+  },
+  {
+    "code": "HOB",
+    "name": "Lea County Regional Airport",
+    "location": "Hobbs",
+    "elevationFeet": "3661",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "QGC",
+    "name": "Lençóis Paulista Airport",
+    "location": "Lençóis Paulista",
+    "elevationFeet": "2039",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "LFK",
+    "name": "Angelina County Airport",
+    "location": "Lufkin",
+    "elevationFeet": "296",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "STS",
+    "name": "Charles M. Schulz Sonoma County Airport",
+    "location": "Santa Rosa",
+    "elevationFeet": "128",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CYF",
+    "name": "Chefornak Airport",
+    "location": "Chefornak",
+    "elevationFeet": "40",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "RGA",
+    "name": "Hermes Quijada International Airport",
+    "location": "Rio Grande",
+    "elevationFeet": "65",
+    "contintent": "SA",
+    "countryCode": "AR"
+  },
+  {
+    "code": "MYE",
+    "name": "Miyakejima Airport",
+    "location": "Miyakejima",
+    "elevationFeet": "67",
+    "contintent": "AS",
+    "countryCode": "JP"
+  },
+  {
+    "code": "AKT",
+    "name": "RAF Akrotiri",
+    "location": "Akrotiri",
+    "elevationFeet": "76",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "CLB",
+    "name": "Castlebar Airport",
+    "location": "Castlebar",
+    "elevationFeet": null,
+    "contintent": "EU",
+    "countryCode": "IE"
+  },
+  {
+    "code": "OEC",
+    "name": "Oecussi Airport",
+    "location": "Oecussi-Ambeno",
+    "elevationFeet": null,
+    "contintent": "AS",
+    "countryCode": "TL"
+  },
+  {
+    "code": "CRF",
+    "name": "Carnot Airport",
+    "location": "Carnot",
+    "elevationFeet": "1985",
+    "contintent": "AF",
+    "countryCode": "CF"
+  },
+  {
+    "code": "INZ",
+    "name": "In Salah Airport",
+    "location": "In Salah",
+    "elevationFeet": "896",
+    "contintent": "AF",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "DOC",
+    "name": "Dornoch Airfield",
+    "location": "Dornoch",
+    "elevationFeet": "1",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "SCN",
+    "name": "Saarbrücken Airport",
+    "location": "Saarbrücken",
+    "elevationFeet": "1058",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "SVN",
+    "name": "Hunter Army Air Field",
+    "location": "Savannah",
+    "elevationFeet": "41",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CWI",
+    "name": "Clinton Municipal Airport",
+    "location": "Clinton",
+    "elevationFeet": "708",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "SLZ",
+    "name": "Marechal Cunha Machado International Airport",
+    "location": "São Luís",
+    "elevationFeet": "178",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "JJG",
+    "name": "Humberto Ghizzo Bortoluzzi Regional Airport",
+    "location": "Jaguaruna",
+    "elevationFeet": "120",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "SRE",
+    "name": "Juana Azurduy De Padilla Airport",
+    "location": "Sucre",
+    "elevationFeet": "9540",
+    "contintent": "SA",
+    "countryCode": "BO"
+  },
+  {
+    "code": "FLF",
+    "name": "Flensburg-Schäferhaus Airport",
+    "location": "Flensburg",
+    "elevationFeet": "131",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "URA",
+    "name": "Uralsk Airport",
+    "location": "Uralsk",
+    "elevationFeet": "125",
+    "contintent": "AS",
+    "countryCode": "KZ"
+  },
+  {
+    "code": "WRT",
+    "name": "Warton Airport",
+    "location": "Warton",
+    "elevationFeet": "55",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "UTK",
+    "name": "Utirik Airport",
+    "location": "Utirik Island",
+    "elevationFeet": "4",
+    "contintent": "OC",
+    "countryCode": "MH"
+  },
+  {
+    "code": "LUC",
+    "name": "Laucala Island Airport",
+    "location": "Laucala Island",
+    "elevationFeet": "10",
+    "contintent": "OC",
+    "countryCode": "FJ"
+  },
+  {
+    "code": "STT",
+    "name": "Cyril E. King Airport",
+    "location": "Charlotte Amalie, Harry S. Truman Airport",
+    "elevationFeet": "23",
+    "contintent": "NA",
+    "countryCode": "VI"
+  },
+  {
+    "code": "TTG",
+    "name": "General Enrique Mosconi Airport",
+    "location": "Tartagal",
+    "elevationFeet": "1472",
+    "contintent": "SA",
+    "countryCode": "AR"
+  },
+  {
+    "code": "PPD",
+    "name": "Palmas del Mar Airstrip",
+    "location": "Palmas del Mar",
+    "elevationFeet": "100",
+    "contintent": "NA",
+    "countryCode": "PR"
+  },
+  {
+    "code": "GMB",
+    "name": "Gambella Airport",
+    "location": "Gambela",
+    "elevationFeet": "1614",
+    "contintent": "AF",
+    "countryCode": "ET"
+  },
+  {
+    "code": "RRR",
+    "name": "Raroia Airport",
+    "location": null,
+    "elevationFeet": "18",
+    "contintent": "OC",
+    "countryCode": "PF"
+  },
+  {
+    "code": "APF",
+    "name": "Naples Municipal Airport",
+    "location": "Naples",
+    "elevationFeet": "8",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CTU",
+    "name": "Chengdu Shuangliu International Airport",
+    "location": "Chengdu",
+    "elevationFeet": "1625",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "GGD",
+    "name": "Gregory Downs Airport",
+    "location": null,
+    "elevationFeet": "52",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "GHF",
+    "name": "Giebelstadt Airport",
+    "location": "Giebelstadt",
+    "elevationFeet": "981",
+    "contintent": "EU",
+    "countryCode": "DE"
+  },
+  {
+    "code": "KBX",
+    "name": "Kambuaya Airport",
+    "location": "Kambuaya-Papua Island",
+    "elevationFeet": "1422",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "GOG",
+    "name": "Gobabis Airport",
+    "location": "Gobabis",
+    "elevationFeet": "4731",
+    "contintent": "AF",
+    "countryCode": "NA"
+  },
+  {
+    "code": "ERE",
+    "name": "Erave Airport",
+    "location": "Erave",
+    "elevationFeet": "3650",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "JAT",
+    "name": "Jabot Airport",
+    "location": "Ailinglapalap Atoll",
+    "elevationFeet": "20",
+    "contintent": "OC",
+    "countryCode": "MH"
+  },
+  {
+    "code": "CDT",
+    "name": "Castellón-Costa Azahar Airport",
+    "location": "Castellón de la Plana",
+    "elevationFeet": "1145",
+    "contintent": "EU",
+    "countryCode": "ES"
+  },
+  {
+    "code": "CIX",
+    "name": "Capitan FAP Jose A Quinones Gonzales International Airport",
+    "location": "Chiclayo",
+    "elevationFeet": "97",
+    "contintent": "SA",
+    "countryCode": "PE"
+  },
+  {
+    "code": "MXS",
+    "name": "Maota Airport",
+    "location": "Maota",
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "WS"
+  },
+  {
+    "code": "NHF",
+    "name": "New Halfa Airport",
+    "location": "New Halfa",
+    "elevationFeet": "1480",
+    "contintent": "AF",
+    "countryCode": "SD"
+  },
+  {
+    "code": "ODS",
+    "name": "Odessa International Airport",
+    "location": "Odessa",
+    "elevationFeet": "172",
+    "contintent": "EU",
+    "countryCode": "UA"
+  },
+  {
+    "code": "ROL",
+    "name": "Roosevelt Municipal Airport",
+    "location": "Roosevelt",
+    "elevationFeet": "5172",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "AAI",
+    "name": "Arraias Airport",
+    "location": "Arraias",
+    "elevationFeet": "1923",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "MHK",
+    "name": "Manhattan Regional Airport",
+    "location": "Manhattan",
+    "elevationFeet": "1057",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "ZGS",
+    "name": "La Romaine Airport",
+    "location": "La Romaine",
+    "elevationFeet": "90",
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "0",
+    "name": "Três Passos Airport",
+    "location": "Três Passos",
+    "elevationFeet": "1503",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "ANA",
+    "name": "Angama Airport",
+    "location": "Maasai Mara",
+    "elevationFeet": "6180",
+    "contintent": "AF",
+    "countryCode": "KE"
+  },
+  {
+    "code": "CVL",
+    "name": "Cape Vogel Airport",
+    "location": null,
+    "elevationFeet": "20",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "MZI",
+    "name": "Mopti Airport",
+    "location": null,
+    "elevationFeet": "906",
+    "contintent": "AF",
+    "countryCode": "ML"
+  },
+  {
+    "code": "BYK",
+    "name": "Bouaké Airport",
+    "location": null,
+    "elevationFeet": "1230",
+    "contintent": "AF",
+    "countryCode": "CI"
+  },
+  {
+    "code": "VDE",
+    "name": "Hierro Airport",
+    "location": "El Hierro Island",
+    "elevationFeet": "103",
+    "contintent": "EU",
+    "countryCode": "ES"
+  },
+  {
+    "code": "KIS",
+    "name": "Kisumu Airport",
+    "location": "Kisumu",
+    "elevationFeet": "3734",
+    "contintent": "AF",
+    "countryCode": "KE"
+  },
+  {
+    "code": "MNS",
+    "name": "Mansa Airport",
+    "location": "Mansa",
+    "elevationFeet": "4101",
+    "contintent": "AF",
+    "countryCode": "ZM"
+  },
+  {
+    "code": "MYV",
+    "name": "Yuba County Airport",
+    "location": "Marysville",
+    "elevationFeet": "64",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "AMM",
+    "name": "Queen Alia International Airport",
+    "location": "Amman",
+    "elevationFeet": "2395",
+    "contintent": "AS",
+    "countryCode": "JO"
+  },
+  {
+    "code": "IGU",
+    "name": "Cataratas International Airport",
+    "location": "Foz Do Iguaçu",
+    "elevationFeet": "786",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "DCF",
+    "name": "Canefield Airport",
+    "location": "Canefield",
+    "elevationFeet": "13",
+    "contintent": "NA",
+    "countryCode": "DM"
+  },
+  {
+    "code": "KTI",
+    "name": "Kratie Airport",
+    "location": "Kratie",
+    "elevationFeet": null,
+    "contintent": "AS",
+    "countryCode": "KH"
+  },
+  {
+    "code": "KDR",
+    "name": "Kandrian Airport",
+    "location": "Kandrian",
+    "elevationFeet": "280",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "CIK",
+    "name": "Chalkyitsik Airport",
+    "location": "Chalkyitsik",
+    "elevationFeet": "544",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "BWL",
+    "name": "Earl Henry Airport",
+    "location": "Blackwell",
+    "elevationFeet": "1054",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "LNV",
+    "name": "Londolovit Airport",
+    "location": "Londolovit",
+    "elevationFeet": "167",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "FEP",
+    "name": "Albertus Airport",
+    "location": "Freeport",
+    "elevationFeet": "859",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TIZ",
+    "name": "Tari Airport",
+    "location": "Tari",
+    "elevationFeet": "5500",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "EAB",
+    "name": "Abbse Airport",
+    "location": "Abbse",
+    "elevationFeet": "651",
+    "contintent": "AS",
+    "countryCode": "YE"
+  },
+  {
+    "code": "EBM",
+    "name": "El Borma Airport",
+    "location": "El Borma",
+    "elevationFeet": "827",
+    "contintent": "AF",
+    "countryCode": "TN"
+  },
+  {
+    "code": "RCR",
+    "name": "Fulton County Airport",
+    "location": "Rochester",
+    "elevationFeet": "790",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "YYA",
+    "name": "Sanhe Airport",
+    "location": "Yueyang",
+    "elevationFeet": "230",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "BSC",
+    "name": "José Celestino Mutis Airport",
+    "location": "Bahía Solano",
+    "elevationFeet": "80",
+    "contintent": "SA",
+    "countryCode": "CO"
+  },
+  {
+    "code": "HLS",
+    "name": "St Helens Airport",
+    "location": null,
+    "elevationFeet": "48",
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "LAC",
+    "name": "Layang-Layang Airport",
+    "location": "Spratley Islands",
+    "elevationFeet": "7",
+    "contintent": "AS",
+    "countryCode": "MY"
+  },
+  {
+    "code": "LRR",
+    "name": "Lar Airport",
+    "location": "Lar",
+    "elevationFeet": "2641",
+    "contintent": "AS",
+    "countryCode": "IR"
+  },
+  {
+    "code": "QNY",
+    "name": "New York Skyports Inc Seaplane Base",
+    "location": "New York",
+    "elevationFeet": null,
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "MLL",
+    "name": "Marshall Don Hunter Sr Airport",
+    "location": "Marshall",
+    "elevationFeet": "103",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "OKO",
+    "name": "Yokota Air Base",
+    "location": "Fussa",
+    "elevationFeet": "463",
+    "contintent": "AS",
+    "countryCode": "JP"
+  },
+  {
+    "code": "UGC",
+    "name": "Urgench Airport",
+    "location": "Urgench",
+    "elevationFeet": "320",
+    "contintent": "AS",
+    "countryCode": "UZ"
+  },
+  {
+    "code": "RGS",
+    "name": "Burgos Airport",
+    "location": "Burgos",
+    "elevationFeet": "2945",
+    "contintent": "EU",
+    "countryCode": "ES"
+  },
+  {
+    "code": "BSG",
+    "name": "Bata Airport",
+    "location": null,
+    "elevationFeet": "13",
+    "contintent": "AF",
+    "countryCode": "GQ"
+  },
+  {
+    "code": "OAX",
+    "name": "Xoxocotlán International Airport",
+    "location": "Oaxaca",
+    "elevationFeet": "4989",
+    "contintent": "NA",
+    "countryCode": "MX"
+  },
+  {
+    "code": "BCH",
+    "name": "Cakung Airport",
+    "location": "Baucau",
+    "elevationFeet": "1771",
+    "contintent": "AS",
+    "countryCode": "TL"
+  },
+  {
+    "code": "BEQ",
+    "name": "RAF Honington",
+    "location": "Thetford",
+    "elevationFeet": "174",
+    "contintent": "EU",
+    "countryCode": "GB"
+  },
+  {
+    "code": "SKE",
+    "name": "Skien Airport",
+    "location": "Geiteryggen",
+    "elevationFeet": "463",
+    "contintent": "EU",
+    "countryCode": "NO"
+  },
+  {
+    "code": "GVR",
+    "name": "Coronel Altino Machado de Oliveira Airport",
+    "location": "Governador Valadares",
+    "elevationFeet": "561",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "QMH",
+    "name": "Oum el Bouaghi airport",
+    "location": "Oum El Bouaghi",
+    "elevationFeet": "2980",
+    "contintent": "AF",
+    "countryCode": "DZ"
+  },
+  {
+    "code": "PNU",
+    "name": "Panguitch Municipal Airport",
+    "location": "Panguitch",
+    "elevationFeet": "6763",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "NVS",
+    "name": "Nevers-Fourchambault Airport",
+    "location": "Nevers/Fourchambault",
+    "elevationFeet": "602",
+    "contintent": "EU",
+    "countryCode": "FR"
+  },
+  {
+    "code": "IGE",
+    "name": "Tchongorove Airport",
+    "location": "Iguela",
+    "elevationFeet": "48",
+    "contintent": "AF",
+    "countryCode": "GA"
+  },
+  {
+    "code": "PPL",
+    "name": "Phaplu Airport",
+    "location": "Phaplu",
+    "elevationFeet": "7918",
+    "contintent": "AS",
+    "countryCode": "NP"
+  },
+  {
+    "code": "ILK",
+    "name": "Atsinanana Airport",
+    "location": "Ilaka",
+    "elevationFeet": "33",
+    "contintent": "AF",
+    "countryCode": "MG"
+  },
+  {
+    "code": "YCU",
+    "name": "Yuncheng Guangong Airport",
+    "location": "Yuncheng",
+    "elevationFeet": "1242",
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "OAL",
+    "name": "Cacoal Airport",
+    "location": "Cacoal",
+    "elevationFeet": "778",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "AHO",
+    "name": "Alghero-Fertilia Airport",
+    "location": "Alghero",
+    "elevationFeet": "87",
+    "contintent": "EU",
+    "countryCode": "IT"
+  },
+  {
+    "code": "BQJ",
+    "name": "Batagay Airport",
+    "location": "Batagay",
+    "elevationFeet": "696",
+    "contintent": "AS",
+    "countryCode": "RU"
+  },
+  {
+    "code": "HDS",
+    "name": "Hoedspruit Air Force Base Airport",
+    "location": "Hoedspruit",
+    "elevationFeet": "1743",
+    "contintent": "AF",
+    "countryCode": "ZA"
+  },
+  {
+    "code": "ATD",
+    "name": "Uru Harbour Airport",
+    "location": "Atoifi",
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "SB"
+  },
+  {
+    "code": "VIS",
+    "name": "Visalia Municipal Airport",
+    "location": "Visalia",
+    "elevationFeet": "295",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TPU",
+    "name": "Tikapur Airport",
+    "location": "Tikapur",
+    "elevationFeet": "522",
+    "contintent": "AS",
+    "countryCode": "NP"
+  },
+  {
+    "code": "DTB",
+    "name": "Silangit Airport",
+    "location": "Siborong-Borong",
+    "elevationFeet": "4700",
+    "contintent": "AS",
+    "countryCode": "ID"
+  },
+  {
+    "code": "WWT",
+    "name": "Newtok Airport",
+    "location": "Newtok",
+    "elevationFeet": "25",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "YDE",
+    "name": "Paradise River Airport",
+    "location": null,
+    "elevationFeet": null,
+    "contintent": "NA",
+    "countryCode": "CA"
+  },
+  {
+    "code": "WAQ",
+    "name": "Antsalova Airport",
+    "location": "Antsalova",
+    "elevationFeet": "551",
+    "contintent": "AF",
+    "countryCode": "MG"
+  },
+  {
+    "code": "ASN",
+    "name": "Talladega Municipal Airport",
+    "location": "Talladega",
+    "elevationFeet": "529",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "CTK",
+    "name": "Canton Municipal Airport",
+    "location": "Canton",
+    "elevationFeet": "1290",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "VFA",
+    "name": "Victoria Falls International Airport",
+    "location": "Victoria Falls",
+    "elevationFeet": "3490",
+    "contintent": "AF",
+    "countryCode": "ZW"
+  },
+  {
+    "code": "XKH",
+    "name": "Xieng Khouang Airport",
+    "location": "Xieng Khouang",
+    "elevationFeet": "3445",
+    "contintent": "AS",
+    "countryCode": "LA"
+  },
+  {
+    "code": "BPY",
+    "name": "Besalampy Airport",
+    "location": null,
+    "elevationFeet": "125",
+    "contintent": "AF",
+    "countryCode": "MG"
+  },
+  {
+    "code": "CQS",
+    "name": "Costa Marques Airport",
+    "location": "Costa Marques",
+    "elevationFeet": "555",
+    "contintent": "SA",
+    "countryCode": "BR"
+  },
+  {
+    "code": "SYM",
+    "name": "Pu'er Simao Airport",
+    "location": "Pu'er",
+    "elevationFeet": null,
+    "contintent": "AS",
+    "countryCode": "CN"
+  },
+  {
+    "code": "SHH",
+    "name": "Shishmaref Airport",
+    "location": "Shishmaref",
+    "elevationFeet": "12",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "APR",
+    "name": "April River Airport",
+    "location": "April River",
+    "elevationFeet": "220",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "POM",
+    "name": "Port Moresby Jacksons International Airport",
+    "location": "Port Moresby",
+    "elevationFeet": "146",
+    "contintent": "OC",
+    "countryCode": "PG"
+  },
+  {
+    "code": "CKE",
+    "name": "Lampson Field",
+    "location": "Lakeport",
+    "elevationFeet": "1379",
+    "contintent": "NA",
+    "countryCode": "US"
+  },
+  {
+    "code": "TAE",
+    "name": "Daegu Airport",
+    "location": "Daegu",
+    "elevationFeet": "116",
+    "contintent": "AS",
+    "countryCode": "KR"
+  },
+  {
+    "code": "LEK",
+    "name": "Tata Airport",
+    "location": "Labé",
+    "elevationFeet": "3396",
+    "contintent": "AF",
+    "countryCode": "GN"
+  },
+  {
+    "code": "BXI",
+    "name": "Boundiali Airport",
+    "location": "Boundiali",
+    "elevationFeet": "1286",
+    "contintent": "AF",
+    "countryCode": "CI"
+  },
+  {
+    "code": "AMP",
+    "name": "Ampanihy Airport",
+    "location": "Ampanihy",
+    "elevationFeet": "771",
+    "contintent": "AF",
+    "countryCode": "MG"
+  },
+  {
+    "code": "DLK",
+    "name": "Dulkaninna Airport",
+    "location": "Dulkaninna",
+    "elevationFeet": null,
+    "contintent": "OC",
+    "countryCode": "AU"
+  },
+  {
+    "code": "LAQ",
+    "name": "La Abraq Airport",
+    "location": "Al Bayda'",
+    "elevationFeet": "2157",
+    "contintent": "AF",
+    "countryCode": "LY"
+  }
+]
