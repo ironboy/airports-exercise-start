@@ -2,7 +2,7 @@ let airports = await $.ajax('airports.json');
 
 // filter and sort airports (only North American Airports, ordered by name)
 airports = airports
-  .filter(airport => airport.contintent === 'NA')
+  .filter(airport => airport.continent === 'NA')
   .sort((a, b) => a.name > b.name ? 1 : -1);
 
 
