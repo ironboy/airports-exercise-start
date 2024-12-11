@@ -17,7 +17,7 @@ if (!store.favAirportCodes) {
   store.save();
 }
 
-// read all airport data from the josn file
+// read all airport data from the json file
 let allAirports = await $.ajax('airports.json');
 // remove duplicates (won't be needed in similar exam assignment)
 allAirports = [...new Set(allAirports.map(x => x.code))]
