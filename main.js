@@ -17,7 +17,32 @@ if (!store.favAirportCodes) {
   store.save();
 }
 
-// read all airport data from the josn file
+// check for gdpr ok
+if (!store.userGdprApproval) {
+  // show the gdpr message
+  $('body').append(`
+    <section class="approve-gdpr">
+      <h1>Do you allow us to store your favorite airports<br>
+      with the help of cookie-like technology?</h1>
+      <div class="button no-on-gdpr">No</div>
+      <div class="button yes-on-gdpr">Yes</div>
+    </section>
+  `);
+  $(document).on('click', '.approve-gdpr .button', function () {
+    // check if the user approves or not (No/Yes)
+    store.userGdprApproval = $(this).text();
+    store.save();
+    // reload the page
+    location.reload();
+  });
+}
+// add user decision on gdpr as a class on body 
+// - this will decide if we show the favorite choice or not (via css)
+if (store.userGdprApproval === 'Yes') {
+  $('body').addClass('gdpr-ok');
+}
+
+// read all airport data from the json file
 let allAirports = await $.ajax('airports.json');
 // remove duplicates (won't be needed in similar exam assignment)
 allAirports = [...new Set(allAirports.map(x => x.code))]
@@ -41,7 +66,7 @@ $('body').append(`
         <th colspan="2" class="align-center">Elevation</th>
         <th class="align-center">Continent</th>
         <th class="align-center">CountryCode</th>
-        <th class="align-center">Favorite</th>
+        <th class="align-center star">Favorite</th>
       </tr>
     </thead>
     <tbody>

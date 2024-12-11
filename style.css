@@ -78,3 +78,28 @@ thead {
 .favorite .star .star-unfilled {
   display: none;
 }
+
+.approve-gdpr {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  width: 100vw;
+  background-color: #ddd;
+}
+
+.button {
+  border-radius: 10px;
+  border: 1px solid #000;
+  background-color: #aaa;
+  display: inline-block;
+  cursor: pointer;
+  width: 150px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+/* important */
+body:not(.gdpr-ok) .star {
+  display: none;
+}
