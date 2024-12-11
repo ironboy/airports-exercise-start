@@ -20,7 +20,8 @@ if (!store.favAirportCodes) {
 // read all airport data from the josn file
 let allAirports = await $.ajax('airports.json');
 // remove duplicates (won't be needed in similar exam assignment)
-allAirports = [...new Set(allAirports.map(x => x.code))].map(code => allAirports.find(x => code === x.code));
+allAirports = [...new Set(allAirports.map(x => x.code))]
+  .map(code => allAirports.find(x => code === x.code));
 
 // sort and filer airports (ordered by name, only North American Airports)
 let airports = allAirports
