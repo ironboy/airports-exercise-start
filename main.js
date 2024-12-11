@@ -5,5 +5,4 @@ airports = airports
   .filter(airport => airport.continent === 'NA')
   .sort((a, b) => a.name > b.name ? 1 : -1);
 
-
 console.log(airports);
