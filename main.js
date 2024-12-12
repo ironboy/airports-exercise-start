@@ -66,7 +66,7 @@ function showAirports() {
         <p>Code: <span class="code">${code}</span></p>
         <p>Location: ${location}</p>
         <p>Elevation (m) ${(elevationFeet * 0.3048).toFixed(2)}</p>
-        <p>Elevation: ${elevationComment}
+        <p>Elevation: ${elevationComment}</p>
         <p>Continent: ${continent}</p>
         <p>Country code: ${countryCode}</p>
         <p>
