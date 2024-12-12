@@ -43,6 +43,19 @@ function showAirports() {
   $('body').empty();
   // lop through the airports and add html to the body
   for (let { code, name, location, elevationFeet, continent, countryCode } of airports) {
+    // set an elevation comment (High, Medium or Low)
+    let elevationComment;
+    if (elevationFeet > 2000) {
+      elevationComment = 'High'
+    }
+    else if (elevationFeet > 300) {
+      elevationComment = 'Medium';
+    }
+    else {
+      elevationComment = 'Low'
+    }
+    // add a css class 'favorite' if the airport
+    // is amongst the favorites of the user
     let favoriteClass = '';
     if (store.favorites.includes(code)) {
       favoriteClass = 'favorite'
@@ -53,6 +66,7 @@ function showAirports() {
         <p>Code: <span class="code">${code}</span></p>
         <p>Location: ${location}</p>
         <p>Elevation (m) ${(elevationFeet * 0.3048).toFixed(2)}</p>
+        <p>Elevation: ${elevationComment}
         <p>Continent: ${continent}</p>
         <p>Country code: ${countryCode}</p>
         <p>
