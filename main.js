@@ -26,6 +26,18 @@ if (!store.favorites) {
   store.save();
 }
 
+// ask the user if we are allowed to store persistant data
+// (the airports that the user has chosen as favorites)
+if (store.gdprConfirmation === undefined) {
+  store.gdprConfirmation = confirm('Tillåter du att vi lagrar dina val av favoritflygplatser med cookie-liknande teknik? (Om inte klicka Avbryt)');
+  store.save();
+}
+
+// set a class on the body if the gdprConfirmation is true
+if (store.gdprConfirmation) {
+  $('body').addClass('gdpr-ok');
+}
+
 function showAirports() {
   // empty the contents of body
   $('body').empty();

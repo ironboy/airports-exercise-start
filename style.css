@@ -1,15 +1,24 @@
+/* if the user has not accepted gdpr question */
 .airport img {
-  width: 30px;
-}
-
-.airport img.filled {
   display: none;
 }
 
-.airport.favorite img.filled {
+/* if the user has accecpted */
+
+body.gdpr-ok .airport img {
+  width: 30px;
+  display: block;
+  cursor: pointer;
+}
+
+body.gdpr-ok .airport img.filled {
+  display: none;
+}
+
+body.gdpr-ok .airport.favorite img.filled {
   display: block;
 }
 
-.airport.favorite img.unfilled {
+body.gdpr-ok .airport.favorite img.unfilled {
   display: none
 }
