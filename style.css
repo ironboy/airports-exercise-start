@@ -1,0 +1,15 @@
+.airport img {
+  width: 30px;
+}
+
+.airport img.filled {
+  display: none;
+}
+
+.airport.favorite img.filled {
+  display: block;
+}
+
+.airport.favorite img.unfilled {
+  display: none
+}
